@@ -1,0 +1,7 @@
+id,tooth,canal,mean_length_mm,sd_mm,crown_length_mm,crown_width_mm,curvature_deg,curvature_sd_deg,apical_diameter_mm,length_source,notes
+1,Maxillary central incisor,Single,21.8,1.6,10.5,8.5,5,2,0.40,https://www.researchgate.net/figure/The-root-canal-length-of-the-anterior-upper-teeth-according-to-their-typology_tbl2_322572259,"Canal length 21.8 +/- 1.6 mm; crown dims from standard dental anatomy tables"
+2,Maxillary canine,Single,23.4,2.3,10.0,7.5,8,3,0.35,https://www.researchgate.net/figure/The-root-canal-length-of-the-anterior-upper-teeth-according-to-their-typology_tbl2_322572259,"Longest anterior canal 23.4 +/- 2.3 mm"
+3,Mandibular central incisor,Labial,20.71,1.69,9.0,5.4,7,3,0.30,https://pmc.ncbi.nlm.nih.gov/articles/PMC11628873/,"Canal length 20.71 +/- 1.69 mm (range 16.0-27.2) reported in web search; CBCT root length 12.77 +/- 1.13 mm (Krishnan et al. Cureus 2024)"
+4,Maxillary first premolar,Buccal,22.5,1.5,8.5,7.0,12,4,0.30,https://www.researchgate.net/figure/Tooth-length-and-root-length-measurement_tbl2_283164810,"Mean buccal canal ~22.5 mm, palatal ~21.4 mm; SD assumed 1.5"
+5,Maxillary first molar,Palatal,21.5,1.0,7.5,10.0,15,5,0.33,https://www.intechopen.com/chapters/67177,"Palatal canal 21.5 +/- 1.0 mm; apical diameter 0.29-0.33 mm at 1 mm (Vertucci)"
+6,Maxillary first molar,Mesiobuccal,19.8,2.0,7.5,10.0,26,7,0.19,https://www.intechopen.com/chapters/67177,"MB canal 19.8 +/- 2 mm; MB curvature 25.6 +/- 7.4 deg (Karaman 2011); apical dia 0.19 mm (Vertucci)"
