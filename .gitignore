@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-prototype-python/outputs/
+intro-root-canal-game/outputs/
 
 # ---- Unity (for the upcoming Unity projects under unity/) ----
 [Ll]ibrary/
