@@ -1,0 +1,942 @@
+t_s,stage,instrument,file_iso,depth_mm,apex_locator_mm,stress_pct,debris_pct,cleanliness_pct,fill_pct,irrigating
+0.12,Access opening,Bur,10,0.47,,0.0,0.0,0.0,0.0,0
+0.23,Access opening,Bur,10,0.93,,0.0,0.0,0.0,0.0,0
+0.35,Access opening,Bur,10,1.4,,0.0,0.0,0.0,0.0,0
+0.47,Access opening,Bur,10,1.87,,0.0,0.0,0.0,0.0,0
+0.58,Access opening,Bur,10,2.33,,0.0,0.0,0.0,0.0,0
+0.7,Access opening,Bur,10,2.8,,0.0,0.0,0.0,0.0,0
+0.82,Access opening,Bur,10,3.27,,0.0,0.0,0.0,0.0,0
+0.93,Access opening,Bur,10,3.73,,0.0,0.0,0.0,0.0,0
+1.05,Access opening,Bur,10,4.2,,0.0,0.0,0.0,0.0,0
+1.17,Working length,K-file,10,0.27,,0.0,0.0,1.0,0.0,0
+1.28,Working length,K-file,10,0.73,,0.0,0.0,1.0,0.0,0
+1.4,Working length,K-file,10,1.2,,0.0,0.0,1.0,0.0,0
+1.52,Working length,K-file,10,1.67,,0.0,0.0,1.0,0.0,0
+1.63,Working length,K-file,10,2.13,,0.0,0.0,1.0,0.0,0
+1.75,Working length,K-file,10,2.6,,0.0,0.0,1.0,0.0,0
+1.87,Working length,K-file,10,3.07,,0.0,0.0,1.0,0.0,0
+1.98,Working length,K-file,10,3.53,,0.0,0.0,1.0,0.0,0
+2.1,Working length,K-file,10,4.0,,0.0,0.0,1.0,0.0,0
+2.22,Working length,K-file,10,4.47,,0.0,0.0,1.0,0.0,0
+2.33,Working length,K-file,10,4.93,,0.0,0.0,1.0,0.0,0
+2.45,Working length,K-file,10,5.4,,0.0,0.0,1.0,0.0,0
+2.57,Working length,K-file,10,5.87,,0.0,0.0,1.0,0.0,0
+2.68,Working length,K-file,10,6.33,,0.0,0.0,1.0,0.0,0
+2.8,Working length,K-file,10,6.8,,0.0,0.0,1.0,0.0,0
+2.92,Working length,K-file,10,7.27,,0.0,0.0,1.0,0.0,0
+3.03,Working length,K-file,10,7.73,,0.0,0.0,1.0,0.0,0
+3.15,Working length,K-file,10,8.2,,0.0,0.0,1.0,0.0,0
+3.27,Working length,K-file,10,8.67,,0.0,0.0,1.0,0.0,0
+3.38,Working length,K-file,10,9.13,10.38,0.2,0.0,1.0,0.0,0
+3.5,Working length,K-file,10,9.6,9.91,0.9,0.0,1.0,0.0,0
+3.62,Working length,K-file,10,10.07,9.46,1.5,0.0,1.0,0.0,0
+3.73,Working length,K-file,10,10.53,8.99,2.2,0.0,1.0,0.0,0
+3.85,Working length,K-file,10,11.0,8.52,2.9,0.0,1.0,0.0,0
+3.97,Working length,K-file,10,11.47,8.05,3.6,0.0,1.0,0.0,0
+4.08,Working length,K-file,10,11.93,7.58,4.2,0.0,1.0,0.0,0
+4.2,Working length,K-file,10,12.4,7.11,4.9,0.0,1.0,0.0,0
+4.32,Working length,K-file,10,12.87,6.64,5.6,0.0,1.0,0.0,0
+4.43,Working length,K-file,10,13.33,6.18,6.2,0.0,1.0,0.0,0
+4.55,Working length,K-file,10,13.8,5.7,6.9,0.0,1.0,0.0,0
+4.67,Working length,K-file,10,14.27,5.23,7.6,0.0,1.0,0.0,0
+4.78,Working length,K-file,10,14.73,4.79,8.3,0.0,1.0,0.0,0
+4.9,Working length,K-file,10,15.2,4.31,10.0,0.0,1.0,0.0,0
+5.02,Working length,K-file,10,15.67,3.84,11.8,0.0,1.0,0.0,0
+5.13,Working length,K-file,10,16.13,3.36,13.6,0.0,1.0,0.0,0
+5.25,Working length,K-file,10,16.6,2.91,15.4,0.0,1.0,0.0,0
+5.37,Working length,K-file,10,17.07,2.44,17.2,0.0,1.0,0.0,0
+5.48,Working length,K-file,10,17.48,2.03,18.7,0.0,1.0,0.0,0
+5.6,Working length,K-file,10,17.6,1.9,19.1,0.0,1.0,0.0,0
+5.72,Working length,K-file,10,17.72,1.79,19.4,0.0,1.0,0.0,0
+5.83,Working length,K-file,10,17.83,1.68,19.7,0.0,1.0,0.0,0
+5.95,Working length,K-file,10,17.95,1.56,20.1,0.0,1.0,0.0,0
+6.07,Working length,K-file,10,18.07,1.44,20.4,0.0,1.0,0.0,0
+6.18,Working length,K-file,10,18.18,1.33,20.7,0.0,1.0,0.0,0
+6.3,Working length,K-file,10,18.3,1.22,21.1,0.0,1.0,0.0,0
+6.42,Working length,K-file,10,18.42,1.09,21.4,0.0,1.0,0.0,0
+6.53,Working length,K-file,10,18.53,0.97,21.7,0.0,1.0,0.0,0
+6.65,Working length,K-file,10,18.65,0.87,22.0,0.0,1.0,0.0,0
+6.77,Working length,K-file,10,18.77,0.74,22.4,0.0,1.0,0.0,0
+6.88,Working length,K-file,10,18.88,0.62,22.7,0.0,1.0,0.0,0
+7.0,Cleaning & shaping,K-file,15,0.02,,0.0,0.0,1.0,0.0,0
+7.12,Cleaning & shaping,K-file,15,0.13,,0.0,0.0,1.0,0.0,0
+7.23,Cleaning & shaping,K-file,15,0.25,,0.0,0.0,1.0,0.0,0
+7.35,Cleaning & shaping,K-file,15,0.37,,0.0,0.0,1.0,0.0,0
+7.47,Cleaning & shaping,K-file,15,0.48,,0.0,0.0,1.0,0.0,0
+7.58,Cleaning & shaping,K-file,15,0.6,,0.0,0.0,1.0,0.0,0
+7.7,Cleaning & shaping,K-file,15,0.72,,0.0,0.0,1.0,0.0,0
+7.82,Cleaning & shaping,K-file,15,0.83,,0.0,0.0,1.0,0.0,0
+7.93,Cleaning & shaping,K-file,15,0.95,,0.0,0.0,1.0,0.0,0
+8.05,Cleaning & shaping,K-file,15,1.07,,0.0,0.0,1.0,0.0,0
+8.17,Cleaning & shaping,K-file,15,1.18,,0.0,0.0,1.0,0.0,0
+8.28,Cleaning & shaping,K-file,15,1.3,,0.0,0.0,1.0,0.0,0
+8.4,Cleaning & shaping,K-file,15,1.42,,0.0,0.0,1.0,0.0,0
+8.52,Cleaning & shaping,K-file,15,1.53,,0.0,0.0,1.0,0.0,0
+8.63,Cleaning & shaping,K-file,15,1.65,,0.0,0.0,1.0,0.0,0
+8.75,Cleaning & shaping,K-file,15,1.77,,0.0,0.0,1.0,0.0,0
+8.87,Cleaning & shaping,K-file,15,1.88,,0.0,0.0,1.0,0.0,0
+8.98,Cleaning & shaping,K-file,15,2.0,,0.0,0.0,1.0,0.0,0
+9.1,Cleaning & shaping,K-file,15,2.12,,0.0,0.0,1.0,0.0,0
+9.22,Cleaning & shaping,K-file,15,2.23,,0.0,0.0,1.0,0.0,0
+9.33,Cleaning & shaping,K-file,15,2.35,,0.0,0.0,1.0,0.0,0
+9.45,Cleaning & shaping,K-file,15,2.47,,0.0,0.0,1.0,0.0,0
+9.57,Cleaning & shaping,K-file,15,2.58,,0.0,0.0,1.0,0.0,0
+9.68,Cleaning & shaping,K-file,15,2.7,,0.0,0.0,1.0,0.0,0
+9.8,Cleaning & shaping,K-file,15,2.82,,0.0,0.0,1.0,0.0,0
+9.92,Cleaning & shaping,K-file,15,2.93,,0.0,0.0,1.0,0.0,0
+10.03,Cleaning & shaping,K-file,15,3.05,,0.0,0.0,1.0,0.0,0
+10.15,Cleaning & shaping,K-file,15,3.17,,0.0,0.0,1.0,0.0,0
+10.27,Cleaning & shaping,K-file,15,3.28,,0.0,0.0,1.0,0.0,0
+10.38,Cleaning & shaping,K-file,15,3.4,,0.0,0.0,1.0,0.0,0
+10.5,Cleaning & shaping,K-file,15,3.52,,0.0,0.0,1.0,0.0,0
+10.62,Cleaning & shaping,K-file,15,3.63,,0.0,0.0,1.0,0.0,0
+10.73,Cleaning & shaping,K-file,15,3.75,,0.0,0.0,1.0,0.0,0
+10.85,Cleaning & shaping,K-file,15,3.87,,0.0,0.0,1.0,0.0,0
+10.97,Cleaning & shaping,K-file,15,3.98,,0.0,0.0,1.0,0.0,0
+11.08,Cleaning & shaping,K-file,15,4.1,,0.0,0.0,1.0,0.0,0
+11.2,Cleaning & shaping,K-file,15,4.22,,0.0,0.0,1.0,0.0,0
+11.32,Cleaning & shaping,K-file,15,4.33,,0.0,0.0,1.0,0.0,0
+11.43,Cleaning & shaping,K-file,15,4.45,,0.0,0.0,1.0,0.0,0
+11.55,Cleaning & shaping,K-file,15,4.57,,0.0,0.0,1.0,0.0,0
+11.67,Cleaning & shaping,K-file,15,4.68,,0.0,0.0,1.0,0.0,0
+11.78,Cleaning & shaping,K-file,15,4.8,,0.0,0.0,1.0,0.0,0
+11.9,Cleaning & shaping,K-file,15,4.92,,0.0,0.0,1.0,0.0,0
+12.02,Cleaning & shaping,K-file,15,5.03,,0.0,0.0,1.0,0.0,0
+12.13,Cleaning & shaping,K-file,15,5.15,,0.0,0.0,1.0,0.0,0
+12.25,Cleaning & shaping,K-file,15,5.27,,0.0,0.0,1.0,0.0,0
+12.37,Cleaning & shaping,K-file,15,5.38,,0.0,0.0,1.0,0.0,0
+12.48,Cleaning & shaping,K-file,15,5.5,,0.0,0.0,1.0,0.0,0
+12.6,Cleaning & shaping,K-file,15,5.62,,0.0,0.0,1.0,0.0,0
+12.72,Cleaning & shaping,K-file,15,5.73,,0.0,0.0,1.0,0.0,0
+12.83,Cleaning & shaping,K-file,15,5.85,,0.0,0.0,1.0,0.0,0
+12.95,Cleaning & shaping,K-file,15,5.97,,0.0,0.0,1.0,0.0,0
+13.07,Cleaning & shaping,K-file,15,6.08,,0.0,0.0,1.0,0.0,0
+13.18,Cleaning & shaping,K-file,15,6.2,,0.0,0.0,1.0,0.0,0
+13.3,Cleaning & shaping,K-file,15,6.32,,0.0,0.0,1.0,0.0,0
+13.42,Cleaning & shaping,K-file,15,6.43,,0.0,0.0,1.0,0.0,0
+13.53,Cleaning & shaping,K-file,15,6.55,,0.0,0.0,1.0,0.0,0
+13.65,Cleaning & shaping,K-file,15,6.67,,0.0,0.0,1.0,0.0,0
+13.77,Cleaning & shaping,K-file,15,6.78,,0.0,0.0,1.0,0.0,0
+13.88,Cleaning & shaping,K-file,15,6.9,,0.0,0.0,1.0,0.0,0
+14.0,Cleaning & shaping,K-file,15,7.02,,0.0,0.0,1.0,0.0,0
+14.12,Cleaning & shaping,K-file,15,7.13,,0.0,0.0,1.0,0.0,0
+14.23,Cleaning & shaping,K-file,15,7.25,,0.0,0.0,1.0,0.0,0
+14.35,Cleaning & shaping,K-file,15,7.37,,0.0,0.0,1.0,0.0,0
+14.47,Cleaning & shaping,K-file,15,7.48,,0.0,0.0,1.0,0.0,0
+14.58,Cleaning & shaping,K-file,15,7.6,,0.0,0.0,1.0,0.0,0
+14.7,Cleaning & shaping,K-file,15,7.72,,0.0,0.0,1.0,0.0,0
+14.82,Cleaning & shaping,K-file,15,7.83,,0.0,0.0,1.0,0.0,0
+14.93,Cleaning & shaping,K-file,15,7.95,,0.0,0.0,1.0,0.0,0
+15.05,Cleaning & shaping,K-file,15,8.07,,0.0,0.0,1.0,0.0,0
+15.17,Cleaning & shaping,K-file,15,8.18,,0.0,0.0,1.0,0.0,0
+15.28,Cleaning & shaping,K-file,15,8.3,,0.0,0.0,1.0,0.0,0
+15.4,Cleaning & shaping,K-file,15,8.42,,0.0,0.0,1.0,0.0,0
+15.52,Cleaning & shaping,K-file,15,8.53,,0.0,0.0,1.0,0.0,0
+15.63,Cleaning & shaping,K-file,15,8.65,,0.0,0.0,1.0,0.0,0
+15.75,Cleaning & shaping,K-file,15,8.77,,0.0,0.0,1.0,0.0,0
+15.87,Cleaning & shaping,K-file,15,8.88,,0.0,0.0,1.0,0.0,0
+15.98,Cleaning & shaping,K-file,15,9.0,10.52,0.0,0.0,1.0,0.0,0
+16.1,Cleaning & shaping,K-file,15,9.12,10.4,0.2,0.1,1.3,0.0,0
+16.22,Cleaning & shaping,K-file,15,9.23,10.29,0.4,0.2,1.8,0.0,0
+16.33,Cleaning & shaping,K-file,15,9.35,10.17,0.6,0.3,2.3,0.0,0
+16.45,Cleaning & shaping,K-file,15,9.47,10.06,0.8,0.4,2.8,0.0,0
+16.57,Cleaning & shaping,K-file,15,9.58,9.94,1.0,0.5,3.3,0.0,0
+16.68,Cleaning & shaping,K-file,15,9.7,9.82,1.1,0.6,3.8,0.0,0
+16.8,Cleaning & shaping,K-file,15,9.82,9.69,1.3,0.7,4.2,0.0,0
+16.92,Cleaning & shaping,K-file,15,9.93,9.57,1.5,0.8,4.7,0.0,0
+17.03,Cleaning & shaping,K-file,15,10.05,9.46,1.7,0.9,5.3,0.0,0
+17.15,Cleaning & shaping,K-file,15,10.17,9.36,1.9,1.0,5.7,0.0,0
+17.27,Cleaning & shaping,K-file,15,10.28,9.24,2.1,1.1,6.2,0.0,0
+17.38,Cleaning & shaping,K-file,15,10.4,9.12,2.3,1.2,6.7,0.0,0
+17.5,Cleaning & shaping,K-file,15,10.52,9.0,2.5,1.3,7.2,0.0,0
+17.62,Cleaning & shaping,K-file,15,10.63,8.87,2.7,1.4,7.7,0.0,0
+17.73,Cleaning & shaping,K-file,15,10.75,8.77,2.8,1.5,8.2,0.0,0
+17.85,Cleaning & shaping,K-file,15,10.87,8.66,3.0,1.6,8.7,0.0,0
+17.97,Cleaning & shaping,K-file,15,10.98,8.54,3.2,1.7,9.2,0.0,0
+18.08,Cleaning & shaping,K-file,15,11.1,8.42,3.4,1.7,9.6,0.0,0
+18.2,Cleaning & shaping,K-file,15,11.22,8.29,3.6,1.8,10.1,0.0,0
+18.32,Cleaning & shaping,K-file,15,11.33,8.17,3.8,1.9,10.6,0.0,0
+18.43,Cleaning & shaping,K-file,15,11.45,8.05,4.0,2.0,11.1,0.0,0
+18.55,Cleaning & shaping,K-file,15,11.57,7.95,4.2,2.1,11.6,0.0,0
+18.67,Cleaning & shaping,K-file,15,11.68,7.81,4.4,2.2,12.1,0.0,0
+18.78,Cleaning & shaping,K-file,15,11.8,7.71,4.6,2.3,12.6,0.0,0
+18.9,Cleaning & shaping,K-file,15,11.92,7.6,4.7,2.4,13.1,0.0,0
+19.02,Cleaning & shaping,K-file,15,12.03,7.48,4.9,2.5,13.5,0.0,0
+19.13,Cleaning & shaping,K-file,15,12.15,7.36,5.1,2.6,14.1,0.0,0
+19.25,Cleaning & shaping,K-file,15,12.27,7.24,5.3,2.7,14.6,0.0,0
+19.37,Cleaning & shaping,K-file,15,12.38,7.12,5.5,2.8,15.0,0.0,0
+19.48,Cleaning & shaping,K-file,15,12.5,7.0,5.7,2.9,15.5,0.0,0
+19.6,Cleaning & shaping,K-file,15,12.62,6.89,5.9,3.0,16.0,0.0,0
+19.72,Cleaning & shaping,K-file,15,12.73,6.77,6.1,3.1,16.5,0.0,0
+19.83,Cleaning & shaping,K-file,15,12.85,6.66,6.3,3.2,17.0,0.0,0
+19.95,Cleaning & shaping,K-file,15,12.97,6.53,6.5,3.3,17.5,0.0,0
+20.07,Cleaning & shaping,K-file,15,13.08,6.42,6.7,3.4,18.0,0.0,0
+20.18,Cleaning & shaping,K-file,15,13.2,6.31,6.9,3.5,18.5,0.0,0
+20.3,Cleaning & shaping,K-file,15,13.32,6.18,7.1,3.6,18.9,0.0,0
+20.42,Cleaning & shaping,K-file,15,13.43,6.06,7.3,3.7,19.4,0.0,0
+20.53,Cleaning & shaping,K-file,15,13.55,5.97,7.4,3.8,20.0,0.0,0
+20.65,Cleaning & shaping,K-file,15,13.67,5.85,7.6,3.9,20.4,0.0,0
+20.77,Cleaning & shaping,K-file,15,13.78,5.74,7.8,4.0,20.9,0.0,0
+20.88,Cleaning & shaping,K-file,15,13.9,5.62,8.0,4.1,21.4,0.0,0
+21.0,Cleaning & shaping,K-file,15,14.02,5.49,8.2,4.2,21.9,0.0,0
+21.12,Cleaning & shaping,K-file,15,14.13,5.38,8.4,4.2,22.4,0.0,0
+21.23,Cleaning & shaping,K-file,15,14.25,5.26,8.6,4.3,22.9,0.0,0
+21.35,Cleaning & shaping,K-file,15,14.37,5.13,8.8,4.4,23.4,0.0,0
+21.47,Cleaning & shaping,K-file,15,14.48,5.02,9.0,4.5,23.9,0.0,0
+21.58,Cleaning & shaping,K-file,15,14.6,4.92,9.2,4.6,24.3,0.0,0
+21.7,Cleaning & shaping,K-file,15,14.72,4.8,9.4,4.7,24.8,0.0,0
+21.82,Cleaning & shaping,K-file,15,14.83,4.69,9.8,4.8,25.3,0.0,0
+21.93,Cleaning & shaping,K-file,15,14.95,4.56,10.3,4.9,25.8,0.0,0
+22.05,Cleaning & shaping,K-file,15,15.07,4.45,10.8,5.0,26.3,0.0,0
+22.17,Cleaning & shaping,K-file,15,15.18,4.34,11.3,5.1,26.8,0.0,0
+22.28,Cleaning & shaping,K-file,15,15.3,4.22,11.8,5.2,27.3,0.0,0
+22.4,Cleaning & shaping,K-file,15,15.42,4.11,12.4,5.3,27.8,0.0,0
+22.52,Cleaning & shaping,K-file,15,15.53,3.97,12.9,5.4,28.2,0.0,0
+22.63,Cleaning & shaping,K-file,15,15.65,3.85,13.4,5.5,28.8,0.0,0
+22.75,Cleaning & shaping,K-file,15,15.77,3.73,13.9,5.6,29.3,0.0,0
+22.87,Cleaning & shaping,K-file,15,15.88,3.61,14.5,5.7,29.7,0.0,0
+22.98,Cleaning & shaping,K-file,15,16.0,3.5,15.0,5.8,30.2,0.0,0
+23.1,Cleaning & shaping,K-file,15,16.12,3.38,15.5,5.9,30.7,0.0,0
+23.22,Cleaning & shaping,K-file,15,16.23,3.27,16.0,6.0,31.2,0.0,0
+23.33,Cleaning & shaping,K-file,15,16.35,3.17,16.6,6.1,31.7,0.0,0
+23.45,Cleaning & shaping,K-file,15,16.47,3.05,17.1,6.2,32.2,0.0,0
+23.57,Cleaning & shaping,K-file,15,16.58,2.92,17.6,6.3,32.7,0.0,0
+23.68,Cleaning & shaping,K-file,15,16.7,2.82,18.1,6.4,33.2,0.0,0
+23.8,Cleaning & shaping,K-file,15,16.82,2.7,18.7,6.5,33.6,0.0,0
+23.92,Cleaning & shaping,K-file,15,16.93,2.59,19.2,6.6,34.1,0.0,0
+24.03,Cleaning & shaping,K-file,15,17.05,2.47,19.7,6.7,34.7,0.0,0
+24.15,Cleaning & shaping,K-file,15,17.17,2.33,20.2,6.8,35.1,0.0,0
+24.27,Cleaning & shaping,K-file,15,17.28,2.23,20.8,6.8,35.6,0.0,0
+24.38,Cleaning & shaping,K-file,15,17.4,2.11,21.3,6.9,36.1,0.0,0
+24.5,Cleaning & shaping,K-file,15,17.52,2.0,21.8,7.0,36.6,0.0,0
+24.62,Cleaning & shaping,K-file,15,17.63,1.88,22.4,7.1,37.1,0.0,0
+24.73,Cleaning & shaping,K-file,15,17.75,1.76,22.9,7.2,37.6,0.0,0
+24.85,Cleaning & shaping,K-file,15,17.87,1.64,23.4,7.3,38.1,0.0,0
+24.97,Cleaning & shaping,K-file,15,17.98,1.52,24.0,7.4,38.6,0.0,0
+25.08,Cleaning & shaping,K-file,15,18.1,1.41,24.5,7.5,39.0,0.0,0
+25.2,Cleaning & shaping,K-file,15,18.22,1.3,25.0,7.6,39.5,0.0,0
+25.32,Cleaning & shaping,K-file,15,18.33,1.19,25.6,7.7,40.0,0.0,0
+25.43,Cleaning & shaping,K-file,15,18.45,1.08,26.1,7.8,40.5,0.0,0
+25.55,Cleaning & shaping,K-file,15,18.57,0.95,26.6,7.9,41.0,0.0,0
+25.67,Cleaning & shaping,K-file,15,18.68,0.83,27.2,8.0,41.5,0.0,0
+25.78,Cleaning & shaping,K-file,15,18.8,0.71,27.7,8.1,42.0,0.0,0
+25.9,Cleaning & shaping,K-file,15,18.92,0.59,28.2,8.2,42.5,0.0,0
+26.02,Cleaning & shaping,K-file,15,18.53,0.97,28.3,8.5,43.1,0.0,0
+26.13,Cleaning & shaping,K-file,15,18.07,1.44,28.3,8.9,43.8,0.0,0
+26.25,Cleaning & shaping,K-file,15,17.6,1.91,28.3,9.3,44.5,0.0,0
+26.37,Cleaning & shaping,K-file,15,17.13,2.37,28.3,9.7,45.2,0.0,0
+26.48,Cleaning & shaping,K-file,15,16.67,2.83,28.3,10.1,45.9,0.0,0
+26.6,Cleaning & shaping,K-file,15,16.2,3.31,28.3,10.5,46.6,0.0,0
+26.72,Cleaning & shaping,K-file,15,15.73,3.77,28.3,10.8,47.3,0.0,0
+26.83,Cleaning & shaping,K-file,15,15.27,4.24,28.3,11.2,48.0,0.0,0
+26.95,Cleaning & shaping,K-file,15,14.8,4.72,28.3,11.6,48.7,0.0,0
+27.07,Cleaning & shaping,K-file,15,14.33,5.19,28.3,12.0,49.4,0.0,0
+27.18,Cleaning & shaping,K-file,15,13.87,5.65,28.3,12.4,50.1,0.0,0
+27.3,Cleaning & shaping,K-file,15,13.4,6.12,28.3,12.8,50.8,0.0,0
+27.42,Cleaning & shaping,K-file,15,12.93,6.58,28.3,13.2,51.5,0.0,0
+27.53,Cleaning & shaping,K-file,15,12.47,7.04,28.3,13.5,52.2,0.0,0
+27.65,Cleaning & shaping,K-file,15,12.0,7.51,28.3,13.9,52.9,0.0,0
+27.77,Cleaning & shaping,K-file,15,11.53,7.97,28.3,14.3,53.6,0.0,0
+27.88,Cleaning & shaping,K-file,15,11.07,8.45,28.3,14.7,54.3,0.0,0
+28.0,Cleaning & shaping,K-file,15,10.6,8.91,28.3,15.1,55.0,0.0,0
+28.12,Cleaning & shaping,K-file,15,10.13,9.37,28.3,15.5,55.7,0.0,0
+28.23,Cleaning & shaping,K-file,15,9.67,9.84,28.3,15.9,56.4,0.0,0
+28.35,Cleaning & shaping,K-file,15,9.2,10.31,28.3,16.2,57.1,0.0,0
+28.47,Cleaning & shaping,K-file,15,8.73,,28.3,16.4,57.3,0.0,0
+28.58,Cleaning & shaping,K-file,15,8.27,,28.3,16.4,57.3,0.0,0
+28.7,Cleaning & shaping,K-file,15,8.0,,27.4,14.2,57.3,0.0,1
+28.82,Cleaning & shaping,K-file,15,8.0,,25.3,8.9,57.3,0.0,1
+28.93,Cleaning & shaping,K-file,15,8.0,,23.2,3.7,57.3,0.0,1
+29.05,Cleaning & shaping,K-file,15,8.0,,21.1,0.0,57.3,0.0,1
+29.17,Cleaning & shaping,K-file,15,8.0,,19.0,0.0,57.3,0.0,1
+29.28,Cleaning & shaping,K-file,15,8.0,,16.9,0.0,57.3,0.0,1
+29.4,Cleaning & shaping,K-file,15,8.0,,14.8,0.0,57.3,0.0,1
+29.52,Cleaning & shaping,K-file,15,8.0,,12.7,0.0,57.3,0.0,1
+29.63,Cleaning & shaping,K-file,15,8.0,,10.6,0.0,57.3,0.0,1
+29.75,Cleaning & shaping,K-file,15,8.0,,8.5,0.0,57.3,0.0,1
+29.87,Cleaning & shaping,K-file,15,8.0,,6.4,0.0,57.3,0.0,1
+29.98,Cleaning & shaping,K-file,15,8.0,,4.3,0.0,57.3,0.0,1
+30.1,Cleaning & shaping,K-file,20,0.12,,0.0,0.0,57.3,0.0,0
+30.22,Cleaning & shaping,K-file,20,0.23,,0.0,0.0,57.3,0.0,0
+30.33,Cleaning & shaping,K-file,20,0.35,,0.0,0.0,57.3,0.0,0
+30.45,Cleaning & shaping,K-file,20,0.47,,0.0,0.0,57.3,0.0,0
+30.57,Cleaning & shaping,K-file,20,0.58,,0.0,0.0,57.3,0.0,0
+30.68,Cleaning & shaping,K-file,20,0.7,,0.0,0.0,57.3,0.0,0
+30.8,Cleaning & shaping,K-file,20,0.82,,0.0,0.0,57.3,0.0,0
+30.92,Cleaning & shaping,K-file,20,0.93,,0.0,0.0,57.3,0.0,0
+31.03,Cleaning & shaping,K-file,20,1.05,,0.0,0.0,57.3,0.0,0
+31.15,Cleaning & shaping,K-file,20,1.17,,0.0,0.0,57.3,0.0,0
+31.27,Cleaning & shaping,K-file,20,1.28,,0.0,0.0,57.3,0.0,0
+31.38,Cleaning & shaping,K-file,20,1.4,,0.0,0.0,57.3,0.0,0
+31.5,Cleaning & shaping,K-file,20,1.52,,0.0,0.0,57.3,0.0,0
+31.62,Cleaning & shaping,K-file,20,1.63,,0.0,0.0,57.3,0.0,0
+31.73,Cleaning & shaping,K-file,20,1.75,,0.0,0.0,57.3,0.0,0
+31.85,Cleaning & shaping,K-file,20,1.87,,0.0,0.0,57.3,0.0,0
+31.97,Cleaning & shaping,K-file,20,1.98,,0.0,0.0,57.3,0.0,0
+32.08,Cleaning & shaping,K-file,20,2.1,,0.0,0.0,57.3,0.0,0
+32.2,Cleaning & shaping,K-file,20,2.22,,0.0,0.0,57.3,0.0,0
+32.32,Cleaning & shaping,K-file,20,2.33,,0.0,0.0,57.3,0.0,0
+32.43,Cleaning & shaping,K-file,20,2.45,,0.0,0.0,57.3,0.0,0
+32.55,Cleaning & shaping,K-file,20,2.57,,0.0,0.0,57.3,0.0,0
+32.67,Cleaning & shaping,K-file,20,2.68,,0.0,0.0,57.3,0.0,0
+32.78,Cleaning & shaping,K-file,20,2.8,,0.0,0.0,57.3,0.0,0
+32.9,Cleaning & shaping,K-file,20,2.92,,0.0,0.0,57.3,0.0,0
+33.02,Cleaning & shaping,K-file,20,3.03,,0.0,0.0,57.3,0.0,0
+33.13,Cleaning & shaping,K-file,20,3.15,,0.0,0.0,57.3,0.0,0
+33.25,Cleaning & shaping,K-file,20,3.27,,0.0,0.0,57.3,0.0,0
+33.37,Cleaning & shaping,K-file,20,3.38,,0.0,0.0,57.3,0.0,0
+33.48,Cleaning & shaping,K-file,20,3.5,,0.0,0.0,57.3,0.0,0
+33.6,Cleaning & shaping,K-file,20,3.62,,0.0,0.0,57.3,0.0,0
+33.72,Cleaning & shaping,K-file,20,3.73,,0.0,0.0,57.3,0.0,0
+33.83,Cleaning & shaping,K-file,20,3.85,,0.0,0.0,57.3,0.0,0
+33.95,Cleaning & shaping,K-file,20,3.97,,0.0,0.0,57.3,0.0,0
+34.07,Cleaning & shaping,K-file,20,4.08,,0.0,0.0,57.3,0.0,0
+34.18,Cleaning & shaping,K-file,20,4.2,,0.0,0.0,57.3,0.0,0
+34.3,Cleaning & shaping,K-file,20,4.32,,0.0,0.0,57.3,0.0,0
+34.42,Cleaning & shaping,K-file,20,4.43,,0.0,0.0,57.3,0.0,0
+34.53,Cleaning & shaping,K-file,20,4.55,,0.0,0.0,57.3,0.0,0
+34.65,Cleaning & shaping,K-file,20,4.67,,0.0,0.0,57.3,0.0,0
+34.77,Cleaning & shaping,K-file,20,4.78,,0.0,0.0,57.3,0.0,0
+34.88,Cleaning & shaping,K-file,20,4.9,,0.0,0.0,57.3,0.0,0
+35.0,Cleaning & shaping,K-file,20,5.02,,0.0,0.0,57.3,0.0,0
+35.12,Cleaning & shaping,K-file,20,5.13,,0.0,0.0,57.3,0.0,0
+35.23,Cleaning & shaping,K-file,20,5.25,,0.0,0.0,57.3,0.0,0
+35.35,Cleaning & shaping,K-file,20,5.37,,0.0,0.0,57.3,0.0,0
+35.47,Cleaning & shaping,K-file,20,5.48,,0.0,0.0,57.3,0.0,0
+35.58,Cleaning & shaping,K-file,20,5.6,,0.0,0.0,57.3,0.0,0
+35.7,Cleaning & shaping,K-file,20,5.72,,0.0,0.0,57.3,0.0,0
+35.82,Cleaning & shaping,K-file,20,5.83,,0.0,0.0,57.3,0.0,0
+35.93,Cleaning & shaping,K-file,20,5.95,,0.0,0.0,57.3,0.0,0
+36.05,Cleaning & shaping,K-file,20,6.07,,0.0,0.0,57.3,0.0,0
+36.17,Cleaning & shaping,K-file,20,6.18,,0.0,0.0,57.3,0.0,0
+36.28,Cleaning & shaping,K-file,20,6.3,,0.0,0.0,57.3,0.0,0
+36.4,Cleaning & shaping,K-file,20,6.42,,0.0,0.0,57.3,0.0,0
+36.52,Cleaning & shaping,K-file,20,6.53,,0.0,0.0,57.3,0.0,0
+36.63,Cleaning & shaping,K-file,20,6.65,,0.0,0.0,57.3,0.0,0
+36.75,Cleaning & shaping,K-file,20,6.77,,0.0,0.0,57.3,0.0,0
+36.87,Cleaning & shaping,K-file,20,6.88,,0.0,0.0,57.3,0.0,0
+36.98,Cleaning & shaping,K-file,20,7.0,,0.0,0.0,57.3,0.0,0
+37.1,Cleaning & shaping,K-file,20,7.12,,0.0,0.0,57.3,0.0,0
+37.22,Cleaning & shaping,K-file,20,7.23,,0.0,0.0,57.3,0.0,0
+37.33,Cleaning & shaping,K-file,20,7.35,,0.0,0.0,57.3,0.0,0
+37.45,Cleaning & shaping,K-file,20,7.47,,0.0,0.0,57.3,0.0,0
+37.57,Cleaning & shaping,K-file,20,7.58,,0.0,0.0,57.3,0.0,0
+37.68,Cleaning & shaping,K-file,20,7.7,,0.0,0.0,57.3,0.0,0
+37.8,Cleaning & shaping,K-file,20,7.82,,0.0,0.0,57.3,0.0,0
+37.92,Cleaning & shaping,K-file,20,7.93,,0.0,0.0,57.3,0.0,0
+38.03,Cleaning & shaping,K-file,20,8.05,,0.0,0.0,57.3,0.0,0
+38.15,Cleaning & shaping,K-file,20,8.17,,0.0,0.0,57.3,0.0,0
+38.27,Cleaning & shaping,K-file,20,8.28,,0.0,0.0,57.3,0.0,0
+38.38,Cleaning & shaping,K-file,20,8.4,,0.0,0.0,57.3,0.0,0
+38.5,Cleaning & shaping,K-file,20,8.52,,0.0,0.0,57.3,0.0,0
+38.62,Cleaning & shaping,K-file,20,8.63,,0.0,0.0,57.3,0.0,0
+38.73,Cleaning & shaping,K-file,20,8.75,,0.0,0.0,57.3,0.0,0
+38.85,Cleaning & shaping,K-file,20,8.87,,0.0,0.0,57.3,0.0,0
+38.97,Cleaning & shaping,K-file,20,8.98,,0.0,0.0,57.3,0.0,0
+39.08,Cleaning & shaping,K-file,20,9.1,10.41,0.2,0.1,57.7,0.0,0
+39.2,Cleaning & shaping,K-file,20,9.22,10.3,0.5,0.3,58.1,0.0,0
+39.32,Cleaning & shaping,K-file,20,9.33,10.19,0.7,0.4,58.6,0.0,0
+39.43,Cleaning & shaping,K-file,20,9.45,10.07,1.0,0.5,59.1,0.0,0
+39.55,Cleaning & shaping,K-file,20,9.57,9.96,1.2,0.6,59.6,0.0,0
+39.67,Cleaning & shaping,K-file,20,9.68,9.84,1.5,0.8,60.2,0.0,0
+39.78,Cleaning & shaping,K-file,20,9.8,9.72,1.7,0.9,60.6,0.0,0
+39.9,Cleaning & shaping,K-file,20,9.92,9.6,2.0,1.0,61.2,0.0,0
+40.02,Cleaning & shaping,K-file,20,10.03,9.49,2.3,1.2,61.6,0.0,0
+40.13,Cleaning & shaping,K-file,20,10.15,9.37,2.5,1.3,62.1,0.0,0
+40.25,Cleaning & shaping,K-file,20,10.27,9.25,2.8,1.4,62.7,0.0,0
+40.37,Cleaning & shaping,K-file,20,10.38,9.13,3.0,1.5,63.1,0.0,0
+40.48,Cleaning & shaping,K-file,20,10.5,9.01,3.3,1.7,63.7,0.0,0
+40.6,Cleaning & shaping,K-file,20,10.62,8.91,3.5,1.8,64.2,0.0,0
+40.72,Cleaning & shaping,K-file,20,10.73,8.79,3.8,1.9,64.6,0.0,0
+40.83,Cleaning & shaping,K-file,20,10.85,8.68,4.0,2.1,65.2,0.0,0
+40.95,Cleaning & shaping,K-file,20,10.97,8.54,4.3,2.2,65.6,0.0,0
+41.07,Cleaning & shaping,K-file,20,11.08,8.43,4.5,2.3,66.2,0.0,0
+41.18,Cleaning & shaping,K-file,20,11.2,8.3,4.8,2.4,66.7,0.0,0
+41.3,Cleaning & shaping,K-file,20,11.32,8.19,5.0,2.6,67.2,0.0,0
+41.42,Cleaning & shaping,K-file,20,11.43,8.07,5.3,2.7,67.7,0.0,0
+41.53,Cleaning & shaping,K-file,20,11.55,7.96,5.6,2.8,68.1,0.0,0
+41.65,Cleaning & shaping,K-file,20,11.67,7.84,5.8,3.0,68.7,0.0,0
+41.77,Cleaning & shaping,K-file,20,11.78,7.74,6.1,3.1,69.2,0.0,0
+41.88,Cleaning & shaping,K-file,20,11.9,7.62,6.3,3.2,69.7,0.0,0
+42.0,Cleaning & shaping,K-file,20,12.02,7.5,6.6,3.3,70.2,0.0,0
+42.12,Cleaning & shaping,K-file,20,12.13,7.37,6.8,3.5,70.6,0.0,0
+42.23,Cleaning & shaping,K-file,20,12.25,7.26,7.1,3.6,71.2,0.0,0
+42.35,Cleaning & shaping,K-file,20,12.37,7.15,7.4,3.7,71.7,0.0,0
+42.47,Cleaning & shaping,K-file,20,12.48,7.02,7.6,3.9,72.2,0.0,0
+42.58,Cleaning & shaping,K-file,20,12.6,6.9,7.9,4.0,72.7,0.0,0
+42.7,Cleaning & shaping,K-file,20,12.72,6.79,8.1,4.1,73.2,0.0,0
+42.82,Cleaning & shaping,K-file,20,12.83,6.66,8.4,4.2,73.7,0.0,0
+42.93,Cleaning & shaping,K-file,20,12.95,6.57,8.6,4.4,74.2,0.0,0
+43.05,Cleaning & shaping,K-file,20,13.07,6.44,8.9,4.5,74.7,0.0,0
+43.17,Cleaning & shaping,K-file,20,13.18,6.31,9.2,4.6,75.2,0.0,0
+43.28,Cleaning & shaping,K-file,20,13.3,6.2,9.4,4.7,75.7,0.0,0
+43.4,Cleaning & shaping,K-file,20,13.42,6.11,9.7,4.9,76.2,0.0,0
+43.52,Cleaning & shaping,K-file,20,13.53,5.99,9.9,5.0,76.7,0.0,0
+43.63,Cleaning & shaping,K-file,20,13.65,5.88,10.2,5.1,77.2,0.0,0
+43.75,Cleaning & shaping,K-file,20,13.77,5.75,10.5,5.3,77.7,0.0,0
+43.87,Cleaning & shaping,K-file,20,13.88,5.62,10.7,5.4,78.2,0.0,0
+43.98,Cleaning & shaping,K-file,20,14.0,5.51,11.0,5.5,78.7,0.0,0
+44.1,Cleaning & shaping,K-file,20,14.12,5.39,11.3,5.6,79.2,0.0,0
+44.22,Cleaning & shaping,K-file,20,14.23,5.28,11.5,5.8,79.7,0.0,0
+44.33,Cleaning & shaping,K-file,20,14.35,5.17,11.8,5.9,80.2,0.0,0
+44.45,Cleaning & shaping,K-file,20,14.47,5.05,12.0,6.0,80.7,0.0,0
+44.57,Cleaning & shaping,K-file,20,14.58,4.92,12.3,6.2,81.2,0.0,0
+44.68,Cleaning & shaping,K-file,20,14.7,4.8,12.6,6.3,81.7,0.0,0
+44.8,Cleaning & shaping,K-file,20,14.82,4.69,13.0,6.4,82.2,0.0,0
+44.92,Cleaning & shaping,K-file,20,14.93,4.57,13.7,6.5,82.7,0.0,0
+45.03,Cleaning & shaping,K-file,20,15.05,4.46,14.4,6.7,83.2,0.0,0
+45.15,Cleaning & shaping,K-file,20,15.17,4.33,15.1,6.8,83.7,0.0,0
+45.27,Cleaning & shaping,K-file,20,15.28,4.22,15.8,6.9,84.2,0.0,0
+45.38,Cleaning & shaping,K-file,20,15.4,4.11,16.6,7.1,84.7,0.0,0
+45.5,Cleaning & shaping,K-file,20,15.52,4.0,17.3,7.2,85.3,0.0,0
+45.62,Cleaning & shaping,K-file,20,15.63,3.87,18.0,7.3,85.7,0.0,0
+45.73,Cleaning & shaping,K-file,20,15.75,3.76,18.7,7.4,86.2,0.0,0
+45.85,Cleaning & shaping,K-file,20,15.87,3.64,19.4,7.6,86.7,0.0,0
+45.97,Cleaning & shaping,K-file,20,15.98,3.52,20.1,7.7,87.2,0.0,0
+46.08,Cleaning & shaping,K-file,20,16.1,3.42,20.8,7.8,87.8,0.0,0
+46.2,Cleaning & shaping,K-file,20,16.22,3.3,21.5,8.0,88.2,0.0,0
+46.32,Cleaning & shaping,K-file,20,16.33,3.18,22.2,8.1,88.7,0.0,0
+46.43,Cleaning & shaping,K-file,20,16.45,3.06,22.9,8.2,89.2,0.0,0
+46.55,Cleaning & shaping,K-file,20,16.57,2.94,23.7,8.3,89.7,0.0,0
+46.67,Cleaning & shaping,K-file,20,16.68,2.81,24.4,8.5,90.3,0.0,0
+46.78,Cleaning & shaping,K-file,20,16.8,2.7,25.1,8.6,90.7,0.0,0
+46.9,Cleaning & shaping,K-file,20,16.92,2.58,25.8,8.7,91.3,0.0,0
+47.02,Cleaning & shaping,K-file,20,17.03,2.47,26.5,8.9,91.7,0.0,0
+47.13,Cleaning & shaping,K-file,20,17.15,2.35,27.2,9.0,92.2,0.0,0
+47.25,Cleaning & shaping,K-file,20,17.27,2.23,28.0,9.1,92.8,0.0,0
+47.37,Cleaning & shaping,K-file,20,17.38,2.11,28.7,9.2,93.2,0.0,0
+47.48,Cleaning & shaping,K-file,20,17.5,2.02,29.4,9.4,93.8,0.0,0
+47.6,Cleaning & shaping,K-file,20,17.62,1.89,30.1,9.5,94.3,0.0,0
+47.72,Cleaning & shaping,K-file,20,17.73,1.78,30.9,9.6,94.7,0.0,0
+47.83,Cleaning & shaping,K-file,20,17.85,1.66,31.6,9.8,95.3,0.0,0
+47.95,Cleaning & shaping,K-file,20,17.97,1.54,32.3,9.9,95.7,0.0,0
+48.07,Cleaning & shaping,K-file,20,18.08,1.43,33.0,10.0,96.3,0.0,0
+48.18,Cleaning & shaping,K-file,20,18.2,1.31,33.8,10.1,96.8,0.0,0
+48.3,Cleaning & shaping,K-file,20,18.32,1.2,34.5,10.3,97.3,0.0,0
+48.42,Cleaning & shaping,K-file,20,18.43,1.08,35.2,10.4,97.8,0.0,0
+48.53,Cleaning & shaping,K-file,20,18.55,0.96,35.9,10.5,98.2,0.0,0
+48.65,Cleaning & shaping,K-file,20,18.67,0.86,36.7,10.7,98.8,0.0,0
+48.77,Cleaning & shaping,K-file,20,18.78,0.73,37.4,10.8,99.3,0.0,0
+48.88,Cleaning & shaping,K-file,20,18.9,0.62,38.1,10.9,99.8,0.0,0
+49.0,Cleaning & shaping,K-file,20,18.6,0.91,38.3,11.3,100.0,0.0,0
+49.12,Cleaning & shaping,K-file,20,18.13,1.39,38.3,11.8,100.0,0.0,0
+49.23,Cleaning & shaping,K-file,20,17.67,1.84,38.3,12.3,100.0,0.0,0
+49.35,Cleaning & shaping,K-file,20,17.2,2.31,38.3,12.9,100.0,0.0,0
+49.47,Cleaning & shaping,K-file,20,16.73,2.77,38.3,13.4,100.0,0.0,0
+49.58,Cleaning & shaping,K-file,20,16.27,3.23,38.3,13.9,100.0,0.0,0
+49.7,Cleaning & shaping,K-file,20,15.8,3.7,38.3,14.4,100.0,0.0,0
+49.82,Cleaning & shaping,K-file,20,15.33,4.17,38.3,14.9,100.0,0.0,0
+49.93,Cleaning & shaping,K-file,20,14.87,4.64,38.3,15.4,100.0,0.0,0
+50.05,Cleaning & shaping,K-file,20,14.4,5.1,38.3,15.9,100.0,0.0,0
+50.17,Cleaning & shaping,K-file,20,13.93,5.56,38.3,16.4,100.0,0.0,0
+50.28,Cleaning & shaping,K-file,20,13.47,6.05,38.3,17.0,100.0,0.0,0
+50.4,Cleaning & shaping,K-file,20,13.0,6.51,38.3,17.5,100.0,0.0,0
+50.52,Cleaning & shaping,K-file,20,12.53,6.97,38.3,18.0,100.0,0.0,0
+50.63,Cleaning & shaping,K-file,20,12.07,7.44,38.3,18.5,100.0,0.0,0
+50.75,Cleaning & shaping,K-file,20,11.6,7.9,38.3,19.0,100.0,0.0,0
+50.87,Cleaning & shaping,K-file,20,11.13,8.37,38.3,19.5,100.0,0.0,0
+50.98,Cleaning & shaping,K-file,20,10.67,8.83,38.3,20.0,100.0,0.0,0
+51.1,Cleaning & shaping,K-file,20,10.2,9.32,38.3,20.6,100.0,0.0,0
+51.22,Cleaning & shaping,K-file,20,9.73,9.78,38.3,21.1,100.0,0.0,0
+51.33,Cleaning & shaping,K-file,20,9.27,10.23,38.3,21.6,100.0,0.0,0
+51.45,Cleaning & shaping,K-file,20,8.8,,38.3,21.9,100.0,0.0,0
+51.57,Cleaning & shaping,K-file,20,8.33,,38.3,21.9,100.0,0.0,0
+51.68,Cleaning & shaping,K-file,20,8.0,,37.7,20.4,100.0,0.0,1
+51.8,Cleaning & shaping,K-file,20,8.0,,35.6,15.1,100.0,0.0,1
+51.92,Cleaning & shaping,K-file,20,8.0,,33.5,9.9,100.0,0.0,1
+52.03,Cleaning & shaping,K-file,20,8.0,,31.4,4.6,100.0,0.0,1
+52.15,Cleaning & shaping,K-file,20,8.0,,29.3,0.0,100.0,0.0,1
+52.27,Cleaning & shaping,K-file,20,8.0,,27.2,0.0,100.0,0.0,1
+52.38,Cleaning & shaping,K-file,20,8.0,,25.1,0.0,100.0,0.0,1
+52.5,Cleaning & shaping,K-file,20,8.0,,23.0,0.0,100.0,0.0,1
+52.62,Cleaning & shaping,K-file,20,8.0,,20.9,0.0,100.0,0.0,1
+52.73,Cleaning & shaping,K-file,20,8.0,,18.8,0.0,100.0,0.0,1
+52.85,Cleaning & shaping,K-file,20,8.0,,16.7,0.0,100.0,0.0,1
+52.97,Cleaning & shaping,K-file,20,8.0,,14.6,0.0,100.0,0.0,1
+53.08,Cleaning & shaping,K-file,25,0.1,,0.0,0.0,100.0,0.0,0
+53.2,Cleaning & shaping,K-file,25,0.22,,0.0,0.0,100.0,0.0,0
+53.32,Cleaning & shaping,K-file,25,0.33,,0.0,0.0,100.0,0.0,0
+53.43,Cleaning & shaping,K-file,25,0.45,,0.0,0.0,100.0,0.0,0
+53.55,Cleaning & shaping,K-file,25,0.57,,0.0,0.0,100.0,0.0,0
+53.67,Cleaning & shaping,K-file,25,0.68,,0.0,0.0,100.0,0.0,0
+53.78,Cleaning & shaping,K-file,25,0.8,,0.0,0.0,100.0,0.0,0
+53.9,Cleaning & shaping,K-file,25,0.92,,0.0,0.0,100.0,0.0,0
+54.02,Cleaning & shaping,K-file,25,1.03,,0.0,0.0,100.0,0.0,0
+54.13,Cleaning & shaping,K-file,25,1.15,,0.0,0.0,100.0,0.0,0
+54.25,Cleaning & shaping,K-file,25,1.27,,0.0,0.0,100.0,0.0,0
+54.37,Cleaning & shaping,K-file,25,1.38,,0.0,0.0,100.0,0.0,0
+54.48,Cleaning & shaping,K-file,25,1.5,,0.0,0.0,100.0,0.0,0
+54.6,Cleaning & shaping,K-file,25,1.62,,0.0,0.0,100.0,0.0,0
+54.72,Cleaning & shaping,K-file,25,1.73,,0.0,0.0,100.0,0.0,0
+54.83,Cleaning & shaping,K-file,25,1.85,,0.0,0.0,100.0,0.0,0
+54.95,Cleaning & shaping,K-file,25,1.97,,0.0,0.0,100.0,0.0,0
+55.07,Cleaning & shaping,K-file,25,2.08,,0.0,0.0,100.0,0.0,0
+55.18,Cleaning & shaping,K-file,25,2.2,,0.0,0.0,100.0,0.0,0
+55.3,Cleaning & shaping,K-file,25,2.32,,0.0,0.0,100.0,0.0,0
+55.42,Cleaning & shaping,K-file,25,2.43,,0.0,0.0,100.0,0.0,0
+55.53,Cleaning & shaping,K-file,25,2.55,,0.0,0.0,100.0,0.0,0
+55.65,Cleaning & shaping,K-file,25,2.67,,0.0,0.0,100.0,0.0,0
+55.77,Cleaning & shaping,K-file,25,2.78,,0.0,0.0,100.0,0.0,0
+55.88,Cleaning & shaping,K-file,25,2.9,,0.0,0.0,100.0,0.0,0
+56.0,Cleaning & shaping,K-file,25,3.02,,0.0,0.0,100.0,0.0,0
+56.12,Cleaning & shaping,K-file,25,3.13,,0.0,0.0,100.0,0.0,0
+56.23,Cleaning & shaping,K-file,25,3.25,,0.0,0.0,100.0,0.0,0
+56.35,Cleaning & shaping,K-file,25,3.37,,0.0,0.0,100.0,0.0,0
+56.47,Cleaning & shaping,K-file,25,3.48,,0.0,0.0,100.0,0.0,0
+56.58,Cleaning & shaping,K-file,25,3.6,,0.0,0.0,100.0,0.0,0
+56.7,Cleaning & shaping,K-file,25,3.72,,0.0,0.0,100.0,0.0,0
+56.82,Cleaning & shaping,K-file,25,3.83,,0.0,0.0,100.0,0.0,0
+56.93,Cleaning & shaping,K-file,25,3.95,,0.0,0.0,100.0,0.0,0
+57.05,Cleaning & shaping,K-file,25,4.07,,0.0,0.0,100.0,0.0,0
+57.17,Cleaning & shaping,K-file,25,4.18,,0.0,0.0,100.0,0.0,0
+57.28,Cleaning & shaping,K-file,25,4.3,,0.0,0.0,100.0,0.0,0
+57.4,Cleaning & shaping,K-file,25,4.42,,0.0,0.0,100.0,0.0,0
+57.52,Cleaning & shaping,K-file,25,4.53,,0.0,0.0,100.0,0.0,0
+57.63,Cleaning & shaping,K-file,25,4.65,,0.0,0.0,100.0,0.0,0
+57.75,Cleaning & shaping,K-file,25,4.77,,0.0,0.0,100.0,0.0,0
+57.87,Cleaning & shaping,K-file,25,4.88,,0.0,0.0,100.0,0.0,0
+57.98,Cleaning & shaping,K-file,25,5.0,,0.0,0.0,100.0,0.0,0
+58.1,Cleaning & shaping,K-file,25,5.12,,0.0,0.0,100.0,0.0,0
+58.22,Cleaning & shaping,K-file,25,5.23,,0.0,0.0,100.0,0.0,0
+58.33,Cleaning & shaping,K-file,25,5.35,,0.0,0.0,100.0,0.0,0
+58.45,Cleaning & shaping,K-file,25,5.47,,0.0,0.0,100.0,0.0,0
+58.57,Cleaning & shaping,K-file,25,5.58,,0.0,0.0,100.0,0.0,0
+58.68,Cleaning & shaping,K-file,25,5.7,,0.0,0.0,100.0,0.0,0
+58.8,Cleaning & shaping,K-file,25,5.82,,0.0,0.0,100.0,0.0,0
+58.92,Cleaning & shaping,K-file,25,5.93,,0.0,0.0,100.0,0.0,0
+59.03,Cleaning & shaping,K-file,25,6.05,,0.0,0.0,100.0,0.0,0
+59.15,Cleaning & shaping,K-file,25,6.17,,0.0,0.0,100.0,0.0,0
+59.27,Cleaning & shaping,K-file,25,6.28,,0.0,0.0,100.0,0.0,0
+59.38,Cleaning & shaping,K-file,25,6.4,,0.0,0.0,100.0,0.0,0
+59.5,Cleaning & shaping,K-file,25,6.52,,0.0,0.0,100.0,0.0,0
+59.62,Cleaning & shaping,K-file,25,6.63,,0.0,0.0,100.0,0.0,0
+59.73,Cleaning & shaping,K-file,25,6.75,,0.0,0.0,100.0,0.0,0
+59.85,Cleaning & shaping,K-file,25,6.87,,0.0,0.0,100.0,0.0,0
+59.97,Cleaning & shaping,K-file,25,6.98,,0.0,0.0,100.0,0.0,0
+60.08,Cleaning & shaping,K-file,25,7.1,,0.0,0.0,100.0,0.0,0
+60.2,Cleaning & shaping,K-file,25,7.22,,0.0,0.0,100.0,0.0,0
+60.32,Cleaning & shaping,K-file,25,7.33,,0.0,0.0,100.0,0.0,0
+60.43,Cleaning & shaping,K-file,25,7.45,,0.0,0.0,100.0,0.0,0
+60.55,Cleaning & shaping,K-file,25,7.57,,0.0,0.0,100.0,0.0,0
+60.67,Cleaning & shaping,K-file,25,7.68,,0.0,0.0,100.0,0.0,0
+60.78,Cleaning & shaping,K-file,25,7.8,,0.0,0.0,100.0,0.0,0
+60.9,Cleaning & shaping,K-file,25,7.92,,0.0,0.0,100.0,0.0,0
+61.02,Cleaning & shaping,K-file,25,8.03,,0.0,0.0,100.0,0.0,0
+61.13,Cleaning & shaping,K-file,25,8.15,,0.0,0.0,100.0,0.0,0
+61.25,Cleaning & shaping,K-file,25,8.27,,0.0,0.0,100.0,0.0,0
+61.37,Cleaning & shaping,K-file,25,8.38,,0.0,0.0,100.0,0.0,0
+61.48,Cleaning & shaping,K-file,25,8.5,,0.0,0.0,100.0,0.0,0
+61.6,Cleaning & shaping,K-file,25,8.62,,0.0,0.0,100.0,0.0,0
+61.72,Cleaning & shaping,K-file,25,8.73,,0.0,0.0,100.0,0.0,0
+61.83,Cleaning & shaping,K-file,25,8.85,,0.0,0.0,100.0,0.0,0
+61.95,Cleaning & shaping,K-file,25,8.97,,0.0,0.0,100.0,0.0,0
+62.07,Cleaning & shaping,K-file,25,9.08,10.43,0.3,0.1,100.0,0.0,0
+62.18,Cleaning & shaping,K-file,25,9.2,10.3,0.6,0.3,100.0,0.0,0
+62.3,Cleaning & shaping,K-file,25,9.32,10.17,0.9,0.5,100.0,0.0,0
+62.42,Cleaning & shaping,K-file,25,9.43,10.07,1.2,0.6,100.0,0.0,0
+62.53,Cleaning & shaping,K-file,25,9.55,9.96,1.5,0.8,100.0,0.0,0
+62.65,Cleaning & shaping,K-file,25,9.67,9.86,1.8,0.9,100.0,0.0,0
+62.77,Cleaning & shaping,K-file,25,9.78,9.74,2.1,1.1,100.0,0.0,0
+62.88,Cleaning & shaping,K-file,25,9.9,9.62,2.5,1.3,100.0,0.0,0
+63.0,Cleaning & shaping,K-file,25,10.02,9.49,2.8,1.4,100.0,0.0,0
+63.12,Cleaning & shaping,K-file,25,10.13,9.38,3.1,1.6,100.0,0.0,0
+63.23,Cleaning & shaping,K-file,25,10.25,9.25,3.4,1.7,100.0,0.0,0
+63.35,Cleaning & shaping,K-file,25,10.37,9.14,3.7,1.9,100.0,0.0,0
+63.47,Cleaning & shaping,K-file,25,10.48,9.02,4.0,2.1,100.0,0.0,0
+63.58,Cleaning & shaping,K-file,25,10.6,8.92,4.4,2.2,100.0,0.0,0
+63.7,Cleaning & shaping,K-file,25,10.72,8.79,4.7,2.4,100.0,0.0,0
+63.82,Cleaning & shaping,K-file,25,10.83,8.68,5.0,2.5,100.0,0.0,0
+63.93,Cleaning & shaping,K-file,25,10.95,8.56,5.3,2.7,100.0,0.0,0
+64.05,Cleaning & shaping,K-file,25,11.07,8.44,5.6,2.9,100.0,0.0,0
+64.17,Cleaning & shaping,K-file,25,11.18,8.31,6.0,3.0,100.0,0.0,0
+64.28,Cleaning & shaping,K-file,25,11.3,8.2,6.3,3.2,100.0,0.0,0
+64.4,Cleaning & shaping,K-file,25,11.42,8.08,6.6,3.3,100.0,0.0,0
+64.52,Cleaning & shaping,K-file,25,11.53,7.97,6.9,3.5,100.0,0.0,0
+64.63,Cleaning & shaping,K-file,25,11.65,7.85,7.2,3.7,100.0,0.0,0
+64.75,Cleaning & shaping,K-file,25,11.77,7.75,7.6,3.8,100.0,0.0,0
+64.87,Cleaning & shaping,K-file,25,11.88,7.63,7.9,4.0,100.0,0.0,0
+64.98,Cleaning & shaping,K-file,25,12.0,7.51,8.2,4.1,100.0,0.0,0
+65.1,Cleaning & shaping,K-file,25,12.12,7.38,8.5,4.3,100.0,0.0,0
+65.22,Cleaning & shaping,K-file,25,12.23,7.27,8.9,4.5,100.0,0.0,0
+65.33,Cleaning & shaping,K-file,25,12.35,7.17,9.2,4.6,100.0,0.0,0
+65.45,Cleaning & shaping,K-file,25,12.47,7.06,9.5,4.8,100.0,0.0,0
+65.57,Cleaning & shaping,K-file,25,12.58,6.92,9.8,5.0,100.0,0.0,0
+65.68,Cleaning & shaping,K-file,25,12.7,6.82,10.2,5.1,100.0,0.0,0
+65.8,Cleaning & shaping,K-file,25,12.82,6.69,10.5,5.3,100.0,0.0,0
+65.92,Cleaning & shaping,K-file,25,12.93,6.59,10.8,5.4,100.0,0.0,0
+66.03,Cleaning & shaping,K-file,25,13.05,6.47,11.1,5.6,100.0,0.0,0
+66.15,Cleaning & shaping,K-file,25,13.17,6.34,11.5,5.8,100.0,0.0,0
+66.27,Cleaning & shaping,K-file,25,13.28,6.23,11.8,5.9,100.0,0.0,0
+66.38,Cleaning & shaping,K-file,25,13.4,6.12,12.1,6.1,100.0,0.0,0
+66.5,Cleaning & shaping,K-file,25,13.52,5.99,12.5,6.2,100.0,0.0,0
+66.62,Cleaning & shaping,K-file,25,13.63,5.88,12.8,6.4,100.0,0.0,0
+66.73,Cleaning & shaping,K-file,25,13.75,5.77,13.1,6.6,100.0,0.0,0
+66.85,Cleaning & shaping,K-file,25,13.87,5.65,13.5,6.7,100.0,0.0,0
+66.97,Cleaning & shaping,K-file,25,13.98,5.53,13.8,6.9,100.0,0.0,0
+67.08,Cleaning & shaping,K-file,25,14.1,5.41,14.1,7.0,100.0,0.0,0
+67.2,Cleaning & shaping,K-file,25,14.22,5.29,14.5,7.2,100.0,0.0,0
+67.32,Cleaning & shaping,K-file,25,14.33,5.18,14.8,7.4,100.0,0.0,0
+67.43,Cleaning & shaping,K-file,25,14.45,5.07,15.1,7.5,100.0,0.0,0
+67.55,Cleaning & shaping,K-file,25,14.57,4.95,15.5,7.7,100.0,0.0,0
+67.67,Cleaning & shaping,K-file,25,14.68,4.83,15.8,7.8,100.0,0.0,0
+67.78,Cleaning & shaping,K-file,25,14.8,4.72,16.3,8.0,100.0,0.0,0
+67.9,Cleaning & shaping,K-file,25,14.92,4.6,17.2,8.2,100.0,0.0,0
+68.02,Cleaning & shaping,K-file,25,15.03,4.48,18.1,8.3,100.0,0.0,0
+68.13,Cleaning & shaping,K-file,25,15.15,4.37,19.0,8.5,100.0,0.0,0
+68.25,Cleaning & shaping,K-file,25,15.27,4.26,19.9,8.6,100.0,0.0,0
+68.37,Cleaning & shaping,K-file,25,15.38,4.15,20.8,8.8,100.0,0.0,0
+68.48,Cleaning & shaping,K-file,25,15.5,4.03,21.7,9.0,100.0,0.0,0
+68.6,Cleaning & shaping,K-file,25,15.62,3.9,22.6,9.1,100.0,0.0,0
+68.72,Cleaning & shaping,K-file,25,15.73,3.78,23.5,9.3,100.0,0.0,0
+68.83,Cleaning & shaping,K-file,25,15.85,3.65,24.4,9.4,100.0,0.0,0
+68.95,Cleaning & shaping,K-file,25,15.97,3.53,25.3,9.6,100.0,0.0,0
+69.07,Cleaning & shaping,K-file,25,16.08,3.42,26.2,9.8,100.0,0.0,0
+69.18,Cleaning & shaping,K-file,25,16.2,3.31,27.1,9.9,100.0,0.0,0
+69.3,Cleaning & shaping,K-file,25,16.32,3.2,28.0,10.1,100.0,0.0,0
+69.42,Cleaning & shaping,K-file,25,16.43,3.09,28.9,10.2,100.0,0.0,0
+69.53,Cleaning & shaping,K-file,25,16.55,2.97,29.8,10.4,100.0,0.0,0
+69.65,Cleaning & shaping,K-file,25,16.67,2.84,30.7,10.6,100.0,0.0,0
+69.77,Cleaning & shaping,K-file,25,16.78,2.71,31.6,10.7,100.0,0.0,0
+69.88,Cleaning & shaping,K-file,25,16.9,2.6,32.5,10.9,100.0,0.0,0
+70.0,Cleaning & shaping,K-file,25,17.02,2.49,33.5,11.0,100.0,0.0,0
+70.12,Cleaning & shaping,K-file,25,17.13,2.38,34.4,11.2,100.0,0.0,0
+70.23,Cleaning & shaping,K-file,25,17.25,2.26,35.3,11.4,100.0,0.0,0
+70.35,Cleaning & shaping,K-file,25,17.37,2.14,36.2,11.5,100.0,0.0,0
+70.47,Cleaning & shaping,K-file,25,17.48,2.03,37.1,11.7,100.0,0.0,0
+70.58,Cleaning & shaping,K-file,25,17.6,1.92,38.1,11.8,100.0,0.0,0
+70.7,Cleaning & shaping,K-file,25,17.72,1.81,39.0,12.0,100.0,0.0,0
+70.82,Cleaning & shaping,K-file,25,17.83,1.69,39.9,12.2,100.0,0.0,0
+70.93,Cleaning & shaping,K-file,25,17.95,1.56,40.8,12.3,100.0,0.0,0
+71.05,Cleaning & shaping,K-file,25,18.07,1.44,41.8,12.5,100.0,0.0,0
+71.17,Cleaning & shaping,K-file,25,18.18,1.33,42.7,12.7,100.0,0.0,0
+71.28,Cleaning & shaping,K-file,25,18.3,1.22,43.6,12.8,100.0,0.0,0
+71.4,Cleaning & shaping,K-file,25,18.42,1.11,44.6,13.0,100.0,0.0,0
+71.52,Cleaning & shaping,K-file,25,18.48,1.04,44.2,13.1,100.0,0.0,0
+71.63,Cleaning & shaping,K-file,25,18.48,1.05,42.1,13.1,100.0,0.0,0
+71.75,Cleaning & shaping,K-file,25,18.48,1.04,40.0,13.1,100.0,0.0,0
+71.87,Cleaning & shaping,K-file,25,18.48,1.03,37.9,13.1,100.0,0.0,0
+71.98,Cleaning & shaping,K-file,25,18.48,1.03,35.8,13.1,100.0,0.0,0
+72.1,Cleaning & shaping,K-file,25,18.48,1.02,33.7,13.1,100.0,0.0,0
+72.22,Cleaning & shaping,K-file,25,18.48,1.01,31.6,13.1,100.0,0.0,0
+72.33,Cleaning & shaping,K-file,25,18.48,1.02,29.5,13.1,100.0,0.0,0
+72.45,Cleaning & shaping,K-file,25,18.48,1.02,27.4,13.1,100.0,0.0,0
+72.57,Cleaning & shaping,K-file,25,18.48,1.02,25.3,13.1,100.0,0.0,0
+72.68,Cleaning & shaping,K-file,25,18.48,1.02,23.2,13.1,100.0,0.0,0
+72.8,Cleaning & shaping,K-file,25,18.48,1.03,21.1,13.1,100.0,0.0,0
+72.92,Cleaning & shaping,K-file,25,18.48,1.01,19.0,13.1,100.0,0.0,0
+73.03,Cleaning & shaping,K-file,25,18.55,0.94,18.6,13.2,100.0,0.0,0
+73.15,Cleaning & shaping,K-file,25,18.67,0.82,19.6,13.3,100.0,0.0,0
+73.27,Cleaning & shaping,K-file,25,18.78,0.7,20.5,13.5,100.0,0.0,0
+73.38,Cleaning & shaping,K-file,25,18.9,0.6,21.4,13.6,100.0,0.0,0
+73.5,Cleaning & shaping,K-file,25,18.93,0.57,20.2,13.7,100.0,0.0,0
+73.62,Cleaning & shaping,K-file,25,18.93,0.56,18.1,13.7,100.0,0.0,0
+73.73,Cleaning & shaping,K-file,25,18.93,0.57,16.0,13.7,100.0,0.0,0
+73.85,Cleaning & shaping,K-file,25,18.93,0.58,13.9,13.7,100.0,0.0,0
+73.97,Cleaning & shaping,K-file,25,18.93,0.58,11.8,13.7,100.0,0.0,0
+74.08,Cleaning & shaping,K-file,25,18.93,0.57,9.7,13.7,100.0,0.0,0
+74.2,Cleaning & shaping,K-file,25,18.47,1.04,9.7,14.3,100.0,0.0,0
+74.32,Cleaning & shaping,K-file,25,18.0,1.49,9.7,15.0,100.0,0.0,0
+74.43,Cleaning & shaping,K-file,25,17.53,1.97,9.7,15.6,100.0,0.0,0
+74.55,Cleaning & shaping,K-file,25,17.07,2.44,9.7,16.2,100.0,0.0,0
+74.67,Cleaning & shaping,K-file,25,16.6,2.9,9.7,16.9,100.0,0.0,0
+74.78,Cleaning & shaping,K-file,25,16.13,3.39,9.7,17.5,100.0,0.0,0
+74.9,Cleaning & shaping,K-file,25,15.67,3.84,9.7,18.2,100.0,0.0,0
+75.02,Cleaning & shaping,K-file,25,15.2,4.3,9.7,18.8,100.0,0.0,0
+75.13,Cleaning & shaping,K-file,25,14.73,4.78,9.7,19.5,100.0,0.0,0
+75.25,Cleaning & shaping,K-file,25,14.27,5.23,9.7,20.1,100.0,0.0,0
+75.37,Cleaning & shaping,K-file,25,13.8,5.69,9.7,20.7,100.0,0.0,0
+75.48,Cleaning & shaping,K-file,25,13.33,6.17,9.7,21.4,100.0,0.0,0
+75.6,Cleaning & shaping,K-file,25,12.87,6.64,9.7,22.0,100.0,0.0,0
+75.72,Cleaning & shaping,K-file,25,12.4,7.1,9.7,22.7,100.0,0.0,0
+75.83,Cleaning & shaping,K-file,25,11.93,7.57,9.7,23.3,100.0,0.0,0
+75.95,Cleaning & shaping,K-file,25,11.47,8.03,9.7,23.9,100.0,0.0,0
+76.07,Cleaning & shaping,K-file,25,11.0,8.5,9.7,24.6,100.0,0.0,0
+76.18,Cleaning & shaping,K-file,25,10.53,8.98,9.7,25.2,100.0,0.0,0
+76.3,Cleaning & shaping,K-file,25,10.07,9.45,9.7,25.9,100.0,0.0,0
+76.42,Cleaning & shaping,K-file,25,9.6,9.92,9.7,26.5,100.0,0.0,0
+76.53,Cleaning & shaping,K-file,25,9.13,10.39,9.7,27.2,100.0,0.0,0
+76.65,Cleaning & shaping,K-file,25,8.67,,9.7,27.3,100.0,0.0,0
+76.77,Cleaning & shaping,K-file,25,8.2,,9.7,27.3,100.0,0.0,0
+76.88,Cleaning & shaping,K-file,25,8.0,,8.5,24.3,100.0,0.0,1
+77.0,Cleaning & shaping,K-file,25,8.0,,6.4,19.1,100.0,0.0,1
+77.12,Cleaning & shaping,K-file,25,8.0,,4.3,13.8,100.0,0.0,1
+77.23,Cleaning & shaping,K-file,25,8.0,,2.2,8.6,100.0,0.0,1
+77.35,Cleaning & shaping,K-file,25,8.0,,0.1,3.3,100.0,0.0,1
+77.47,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+77.58,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+77.7,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+77.82,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+77.93,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+78.05,Cleaning & shaping,K-file,25,8.0,,0.0,0.0,100.0,0.0,1
+78.17,Cleaning & shaping,K-file,30,0.02,,0.0,0.0,100.0,0.0,0
+78.28,Cleaning & shaping,K-file,30,0.13,,0.0,0.0,100.0,0.0,0
+78.4,Cleaning & shaping,K-file,30,0.25,,0.0,0.0,100.0,0.0,0
+78.52,Cleaning & shaping,K-file,30,0.37,,0.0,0.0,100.0,0.0,0
+78.63,Cleaning & shaping,K-file,30,0.48,,0.0,0.0,100.0,0.0,0
+78.75,Cleaning & shaping,K-file,30,0.6,,0.0,0.0,100.0,0.0,0
+78.87,Cleaning & shaping,K-file,30,0.72,,0.0,0.0,100.0,0.0,0
+78.98,Cleaning & shaping,K-file,30,0.83,,0.0,0.0,100.0,0.0,0
+79.1,Cleaning & shaping,K-file,30,0.95,,0.0,0.0,100.0,0.0,0
+79.22,Cleaning & shaping,K-file,30,1.07,,0.0,0.0,100.0,0.0,0
+79.33,Cleaning & shaping,K-file,30,1.18,,0.0,0.0,100.0,0.0,0
+79.45,Cleaning & shaping,K-file,30,1.3,,0.0,0.0,100.0,0.0,0
+79.57,Cleaning & shaping,K-file,30,1.42,,0.0,0.0,100.0,0.0,0
+79.68,Cleaning & shaping,K-file,30,1.53,,0.0,0.0,100.0,0.0,0
+79.8,Cleaning & shaping,K-file,30,1.65,,0.0,0.0,100.0,0.0,0
+79.92,Cleaning & shaping,K-file,30,1.77,,0.0,0.0,100.0,0.0,0
+80.03,Cleaning & shaping,K-file,30,1.88,,0.0,0.0,100.0,0.0,0
+80.15,Cleaning & shaping,K-file,30,2.0,,0.0,0.0,100.0,0.0,0
+80.27,Cleaning & shaping,K-file,30,2.12,,0.0,0.0,100.0,0.0,0
+80.38,Cleaning & shaping,K-file,30,2.23,,0.0,0.0,100.0,0.0,0
+80.5,Cleaning & shaping,K-file,30,2.35,,0.0,0.0,100.0,0.0,0
+80.62,Cleaning & shaping,K-file,30,2.47,,0.0,0.0,100.0,0.0,0
+80.73,Cleaning & shaping,K-file,30,2.58,,0.0,0.0,100.0,0.0,0
+80.85,Cleaning & shaping,K-file,30,2.7,,0.0,0.0,100.0,0.0,0
+80.97,Cleaning & shaping,K-file,30,2.82,,0.0,0.0,100.0,0.0,0
+81.08,Cleaning & shaping,K-file,30,2.93,,0.0,0.0,100.0,0.0,0
+81.2,Cleaning & shaping,K-file,30,3.05,,0.0,0.0,100.0,0.0,0
+81.32,Cleaning & shaping,K-file,30,3.17,,0.0,0.0,100.0,0.0,0
+81.43,Cleaning & shaping,K-file,30,3.28,,0.0,0.0,100.0,0.0,0
+81.55,Cleaning & shaping,K-file,30,3.4,,0.0,0.0,100.0,0.0,0
+81.67,Cleaning & shaping,K-file,30,3.52,,0.0,0.0,100.0,0.0,0
+81.78,Cleaning & shaping,K-file,30,3.63,,0.0,0.0,100.0,0.0,0
+81.9,Cleaning & shaping,K-file,30,3.75,,0.0,0.0,100.0,0.0,0
+82.02,Cleaning & shaping,K-file,30,3.87,,0.0,0.0,100.0,0.0,0
+82.13,Cleaning & shaping,K-file,30,3.98,,0.0,0.0,100.0,0.0,0
+82.25,Cleaning & shaping,K-file,30,4.1,,0.0,0.0,100.0,0.0,0
+82.37,Cleaning & shaping,K-file,30,4.22,,0.0,0.0,100.0,0.0,0
+82.48,Cleaning & shaping,K-file,30,4.33,,0.0,0.0,100.0,0.0,0
+82.6,Cleaning & shaping,K-file,30,4.45,,0.0,0.0,100.0,0.0,0
+82.72,Cleaning & shaping,K-file,30,4.57,,0.0,0.0,100.0,0.0,0
+82.83,Cleaning & shaping,K-file,30,4.68,,0.0,0.0,100.0,0.0,0
+82.95,Cleaning & shaping,K-file,30,4.8,,0.0,0.0,100.0,0.0,0
+83.07,Cleaning & shaping,K-file,30,4.92,,0.0,0.0,100.0,0.0,0
+83.18,Cleaning & shaping,K-file,30,5.03,,0.0,0.0,100.0,0.0,0
+83.3,Cleaning & shaping,K-file,30,5.15,,0.0,0.0,100.0,0.0,0
+83.42,Cleaning & shaping,K-file,30,5.27,,0.0,0.0,100.0,0.0,0
+83.53,Cleaning & shaping,K-file,30,5.38,,0.0,0.0,100.0,0.0,0
+83.65,Cleaning & shaping,K-file,30,5.5,,0.0,0.0,100.0,0.0,0
+83.77,Cleaning & shaping,K-file,30,5.62,,0.0,0.0,100.0,0.0,0
+83.88,Cleaning & shaping,K-file,30,5.73,,0.0,0.0,100.0,0.0,0
+84.0,Cleaning & shaping,K-file,30,5.85,,0.0,0.0,100.0,0.0,0
+84.12,Cleaning & shaping,K-file,30,5.97,,0.0,0.0,100.0,0.0,0
+84.23,Cleaning & shaping,K-file,30,6.08,,0.0,0.0,100.0,0.0,0
+84.35,Cleaning & shaping,K-file,30,6.2,,0.0,0.0,100.0,0.0,0
+84.47,Cleaning & shaping,K-file,30,6.32,,0.0,0.0,100.0,0.0,0
+84.58,Cleaning & shaping,K-file,30,6.43,,0.0,0.0,100.0,0.0,0
+84.7,Cleaning & shaping,K-file,30,6.55,,0.0,0.0,100.0,0.0,0
+84.82,Cleaning & shaping,K-file,30,6.67,,0.0,0.0,100.0,0.0,0
+84.93,Cleaning & shaping,K-file,30,6.78,,0.0,0.0,100.0,0.0,0
+85.05,Cleaning & shaping,K-file,30,6.9,,0.0,0.0,100.0,0.0,0
+85.17,Cleaning & shaping,K-file,30,7.02,,0.0,0.0,100.0,0.0,0
+85.28,Cleaning & shaping,K-file,30,7.13,,0.0,0.0,100.0,0.0,0
+85.4,Cleaning & shaping,K-file,30,7.25,,0.0,0.0,100.0,0.0,0
+85.52,Cleaning & shaping,K-file,30,7.37,,0.0,0.0,100.0,0.0,0
+85.63,Cleaning & shaping,K-file,30,7.48,,0.0,0.0,100.0,0.0,0
+85.75,Cleaning & shaping,K-file,30,7.6,,0.0,0.0,100.0,0.0,0
+85.87,Cleaning & shaping,K-file,30,7.72,,0.0,0.0,100.0,0.0,0
+85.98,Cleaning & shaping,K-file,30,7.83,,0.0,0.0,100.0,0.0,0
+86.1,Cleaning & shaping,K-file,30,7.95,,0.0,0.0,100.0,0.0,0
+86.22,Cleaning & shaping,K-file,30,8.07,,0.0,0.0,100.0,0.0,0
+86.33,Cleaning & shaping,K-file,30,8.18,,0.0,0.0,100.0,0.0,0
+86.45,Cleaning & shaping,K-file,30,8.3,,0.0,0.0,100.0,0.0,0
+86.57,Cleaning & shaping,K-file,30,8.42,,0.0,0.0,100.0,0.0,0
+86.68,Cleaning & shaping,K-file,30,8.53,,0.0,0.0,100.0,0.0,0
+86.8,Cleaning & shaping,K-file,30,8.65,,0.0,0.0,100.0,0.0,0
+86.92,Cleaning & shaping,K-file,30,8.77,,0.0,0.0,100.0,0.0,0
+87.03,Cleaning & shaping,K-file,30,8.88,,0.0,0.0,100.0,0.0,0
+87.15,Cleaning & shaping,K-file,30,9.0,10.52,0.1,0.0,100.0,0.0,0
+87.27,Cleaning & shaping,K-file,30,9.12,10.4,0.4,0.2,100.0,0.0,0
+87.38,Cleaning & shaping,K-file,30,9.23,10.28,0.8,0.4,100.0,0.0,0
+87.5,Cleaning & shaping,K-file,30,9.35,10.16,1.2,0.6,100.0,0.0,0
+87.62,Cleaning & shaping,K-file,30,9.47,10.04,1.6,0.8,100.0,0.0,0
+87.73,Cleaning & shaping,K-file,30,9.58,9.93,1.9,1.0,100.0,0.0,0
+87.85,Cleaning & shaping,K-file,30,9.7,9.83,2.3,1.2,100.0,0.0,0
+87.97,Cleaning & shaping,K-file,30,9.82,9.7,2.7,1.4,100.0,0.0,0
+88.08,Cleaning & shaping,K-file,30,9.93,9.58,3.1,1.6,100.0,0.0,0
+88.2,Cleaning & shaping,K-file,30,10.05,9.45,3.4,1.8,100.0,0.0,0
+88.32,Cleaning & shaping,K-file,30,10.17,9.35,3.8,2.0,100.0,0.0,0
+88.43,Cleaning & shaping,K-file,30,10.28,9.22,4.2,2.1,100.0,0.0,0
+88.55,Cleaning & shaping,K-file,30,10.4,9.1,4.6,2.3,100.0,0.0,0
+88.67,Cleaning & shaping,K-file,30,10.52,8.98,5.0,2.5,100.0,0.0,0
+88.78,Cleaning & shaping,K-file,30,10.63,8.88,5.4,2.7,100.0,0.0,0
+88.9,Cleaning & shaping,K-file,30,10.75,8.77,5.7,2.9,100.0,0.0,0
+89.02,Cleaning & shaping,K-file,30,10.87,8.65,6.1,3.1,100.0,0.0,0
+89.13,Cleaning & shaping,K-file,30,10.98,8.53,6.5,3.3,100.0,0.0,0
+89.25,Cleaning & shaping,K-file,30,11.1,8.43,6.9,3.5,100.0,0.0,0
+89.37,Cleaning & shaping,K-file,30,11.22,8.3,7.3,3.7,100.0,0.0,0
+89.48,Cleaning & shaping,K-file,30,11.33,8.19,7.7,3.9,100.0,0.0,0
+89.6,Cleaning & shaping,K-file,30,11.45,8.07,8.1,4.1,100.0,0.0,0
+89.72,Cleaning & shaping,K-file,30,11.57,7.94,8.4,4.3,100.0,0.0,0
+89.83,Cleaning & shaping,K-file,30,11.68,7.83,8.8,4.5,100.0,0.0,0
+89.95,Cleaning & shaping,K-file,30,11.8,7.7,9.2,4.6,100.0,0.0,0
+90.07,Cleaning & shaping,K-file,30,11.92,7.6,9.6,4.8,100.0,0.0,0
+90.18,Cleaning & shaping,K-file,30,12.03,7.47,10.0,5.0,100.0,0.0,0
+90.3,Cleaning & shaping,K-file,30,12.15,7.35,10.4,5.2,100.0,0.0,0
+90.42,Cleaning & shaping,K-file,30,12.27,7.25,10.8,5.4,100.0,0.0,0
+90.53,Cleaning & shaping,K-file,30,12.38,7.14,11.2,5.6,100.0,0.0,0
+90.65,Cleaning & shaping,K-file,30,12.5,7.02,11.6,5.8,100.0,0.0,0
+90.77,Cleaning & shaping,K-file,30,12.62,6.9,12.0,6.0,100.0,0.0,0
+90.88,Cleaning & shaping,K-file,30,12.73,6.78,12.4,6.2,100.0,0.0,0
+91.0,Cleaning & shaping,K-file,30,12.85,6.66,12.8,6.4,100.0,0.0,0
+91.12,Cleaning & shaping,K-file,30,12.97,6.56,13.2,6.6,100.0,0.0,0
+91.23,Cleaning & shaping,K-file,30,13.08,6.42,13.6,6.8,100.0,0.0,0
+91.35,Cleaning & shaping,K-file,30,13.2,6.32,14.0,7.0,100.0,0.0,0
+91.47,Cleaning & shaping,K-file,30,13.32,6.2,14.4,7.2,100.0,0.0,0
+91.58,Cleaning & shaping,K-file,30,13.43,6.07,14.8,7.3,100.0,0.0,0
+91.7,Cleaning & shaping,K-file,30,13.55,5.95,15.2,7.5,100.0,0.0,0
+91.82,Cleaning & shaping,K-file,30,13.67,5.84,15.6,7.7,100.0,0.0,0
+91.93,Cleaning & shaping,K-file,30,13.78,5.74,16.0,7.9,100.0,0.0,0
+92.05,Cleaning & shaping,K-file,30,13.9,5.61,16.4,8.1,100.0,0.0,0
+92.17,Cleaning & shaping,K-file,30,14.02,5.49,16.8,8.3,100.0,0.0,0
+92.28,Cleaning & shaping,K-file,30,14.13,5.38,17.2,8.5,100.0,0.0,0
+92.4,Cleaning & shaping,K-file,30,14.25,5.26,17.6,8.7,100.0,0.0,0
+92.52,Cleaning & shaping,K-file,30,14.37,5.13,18.0,8.9,100.0,0.0,0
+92.63,Cleaning & shaping,K-file,30,14.48,5.01,18.4,9.1,100.0,0.0,0
+92.75,Cleaning & shaping,K-file,30,14.6,4.91,18.8,9.3,100.0,0.0,0
+92.87,Cleaning & shaping,K-file,30,14.72,4.79,19.2,9.5,100.0,0.0,0
+92.98,Cleaning & shaping,K-file,30,14.83,4.67,20.0,9.7,100.0,0.0,0
+93.1,Cleaning & shaping,K-file,30,14.95,4.56,21.1,9.8,100.0,0.0,0
+93.22,Cleaning & shaping,K-file,30,15.07,4.44,22.2,10.0,100.0,0.0,0
+93.33,Cleaning & shaping,K-file,30,15.18,4.32,23.3,10.2,100.0,0.0,0
+93.45,Cleaning & shaping,K-file,30,15.3,4.22,24.4,10.4,100.0,0.0,0
+93.57,Cleaning & shaping,K-file,30,15.42,4.09,25.5,10.6,100.0,0.0,0
+93.68,Cleaning & shaping,K-file,30,15.53,3.97,26.6,10.8,100.0,0.0,0
+93.8,Cleaning & shaping,K-file,30,15.65,3.85,27.7,11.0,100.0,0.0,0
+93.92,Cleaning & shaping,K-file,30,15.77,3.74,28.8,11.2,100.0,0.0,0
+94.03,Cleaning & shaping,K-file,30,15.88,3.63,29.9,11.4,100.0,0.0,0
+94.15,Cleaning & shaping,K-file,30,16.0,3.51,31.0,11.6,100.0,0.0,0
+94.27,Cleaning & shaping,K-file,30,16.12,3.4,32.1,11.8,100.0,0.0,0
+94.38,Cleaning & shaping,K-file,30,16.23,3.28,33.2,12.0,100.0,0.0,0
+94.5,Cleaning & shaping,K-file,30,16.35,3.16,34.3,12.2,100.0,0.0,0
+94.62,Cleaning & shaping,K-file,30,16.47,3.04,35.4,12.3,100.0,0.0,0
+94.73,Cleaning & shaping,K-file,30,16.58,2.91,36.5,12.5,100.0,0.0,0
+94.85,Cleaning & shaping,K-file,30,16.7,2.81,37.6,12.7,100.0,0.0,0
+94.97,Cleaning & shaping,K-file,30,16.82,2.7,38.7,12.9,100.0,0.0,0
+95.08,Cleaning & shaping,K-file,30,16.93,2.57,39.9,13.1,100.0,0.0,0
+95.2,Cleaning & shaping,K-file,30,17.05,2.45,41.0,13.3,100.0,0.0,0
+95.32,Cleaning & shaping,K-file,30,17.17,2.35,42.1,13.5,100.0,0.0,0
+95.43,Cleaning & shaping,K-file,30,17.28,2.24,43.2,13.7,100.0,0.0,0
+95.55,Cleaning & shaping,K-file,30,17.4,2.12,44.4,13.9,100.0,0.0,0
+95.67,Cleaning & shaping,K-file,30,17.47,2.05,44.1,14.0,100.0,0.0,0
+95.78,Cleaning & shaping,K-file,30,17.47,2.05,42.0,14.0,100.0,0.0,0
+95.9,Cleaning & shaping,K-file,30,17.47,2.05,39.9,14.0,100.0,0.0,0
+96.02,Cleaning & shaping,K-file,30,17.47,2.04,37.8,14.0,100.0,0.0,0
+96.13,Cleaning & shaping,K-file,30,17.47,2.06,35.7,14.0,100.0,0.0,0
+96.25,Cleaning & shaping,K-file,30,17.47,2.05,33.6,14.0,100.0,0.0,0
+96.37,Cleaning & shaping,K-file,30,17.47,2.05,31.5,14.0,100.0,0.0,0
+96.48,Cleaning & shaping,K-file,30,17.47,2.05,29.4,14.0,100.0,0.0,0
+96.6,Cleaning & shaping,K-file,30,17.47,2.04,27.3,14.0,100.0,0.0,0
+96.72,Cleaning & shaping,K-file,30,17.47,2.05,25.2,14.0,100.0,0.0,0
+96.83,Cleaning & shaping,K-file,30,17.47,2.04,23.1,14.0,100.0,0.0,0
+96.95,Cleaning & shaping,K-file,30,17.47,2.03,21.0,14.0,100.0,0.0,0
+97.07,Cleaning & shaping,K-file,30,17.47,2.04,18.9,14.0,100.0,0.0,0
+97.18,Cleaning & shaping,K-file,30,17.53,1.98,18.6,14.1,100.0,0.0,0
+97.3,Cleaning & shaping,K-file,30,17.65,1.86,19.8,14.3,100.0,0.0,0
+97.42,Cleaning & shaping,K-file,30,17.77,1.74,20.9,14.5,100.0,0.0,0
+97.53,Cleaning & shaping,K-file,30,17.88,1.62,22.0,14.7,100.0,0.0,0
+97.65,Cleaning & shaping,K-file,30,18.0,1.5,23.2,14.9,100.0,0.0,0
+97.77,Cleaning & shaping,K-file,30,18.12,1.38,24.3,15.1,100.0,0.0,0
+97.88,Cleaning & shaping,K-file,30,18.23,1.27,25.5,15.3,100.0,0.0,0
+98.0,Cleaning & shaping,K-file,30,18.35,1.16,26.6,15.5,100.0,0.0,0
+98.12,Cleaning & shaping,K-file,30,18.47,1.05,27.7,15.6,100.0,0.0,0
+98.23,Cleaning & shaping,K-file,30,18.58,0.93,28.9,15.8,100.0,0.0,0
+98.35,Cleaning & shaping,K-file,30,18.7,0.82,30.0,16.0,100.0,0.0,0
+98.47,Cleaning & shaping,K-file,30,18.82,0.7,31.2,16.2,100.0,0.0,0
+98.58,Cleaning & shaping,K-file,30,18.93,0.58,32.3,16.4,100.0,0.0,0
+98.7,Cleaning & shaping,K-file,30,18.47,1.05,32.3,17.2,100.0,0.0,0
+98.82,Cleaning & shaping,K-file,30,18.0,1.52,32.3,18.0,100.0,0.0,0
+98.93,Cleaning & shaping,K-file,30,17.53,1.99,32.3,18.7,100.0,0.0,0
+99.05,Cleaning & shaping,K-file,30,17.07,2.46,32.3,19.5,100.0,0.0,0
+99.17,Cleaning & shaping,K-file,30,16.6,2.92,32.3,20.3,100.0,0.0,0
+99.28,Cleaning & shaping,K-file,30,16.13,3.39,32.3,21.0,100.0,0.0,0
+99.4,Cleaning & shaping,K-file,30,15.67,3.85,32.3,21.8,100.0,0.0,0
+99.52,Cleaning & shaping,K-file,30,15.2,4.31,32.3,22.6,100.0,0.0,0
+99.63,Cleaning & shaping,K-file,30,14.73,4.77,32.3,23.3,100.0,0.0,0
+99.75,Cleaning & shaping,K-file,30,14.27,5.24,32.3,24.1,100.0,0.0,0
+99.87,Cleaning & shaping,K-file,30,13.8,5.7,32.3,24.9,100.0,0.0,0
+99.98,Cleaning & shaping,K-file,30,13.33,6.18,32.3,25.7,100.0,0.0,0
+100.1,Cleaning & shaping,K-file,30,12.87,6.64,32.3,26.4,100.0,0.0,0
+100.22,Cleaning & shaping,K-file,30,12.4,7.11,32.3,27.2,100.0,0.0,0
+100.33,Cleaning & shaping,K-file,30,11.93,7.59,32.3,28.0,100.0,0.0,0
+100.45,Cleaning & shaping,K-file,30,11.47,8.05,32.3,28.7,100.0,0.0,0
+100.57,Cleaning & shaping,K-file,30,11.0,8.51,32.3,29.5,100.0,0.0,0
+100.68,Cleaning & shaping,K-file,30,10.53,8.98,32.3,30.3,100.0,0.0,0
+100.8,Cleaning & shaping,K-file,30,10.07,9.43,32.3,31.0,100.0,0.0,0
+100.92,Cleaning & shaping,K-file,30,9.6,9.9,32.3,31.8,100.0,0.0,0
+101.03,Cleaning & shaping,K-file,30,9.13,10.36,32.3,32.6,100.0,0.0,0
+101.15,Cleaning & shaping,K-file,30,8.67,,32.3,32.8,100.0,0.0,0
+101.27,Cleaning & shaping,K-file,30,8.2,,32.3,32.8,100.0,0.0,0
+101.38,Cleaning & shaping,K-file,30,8.0,,31.1,29.8,100.0,0.0,1
+101.5,Cleaning & shaping,K-file,30,8.0,,29.0,24.6,100.0,0.0,1
+101.62,Cleaning & shaping,K-file,30,8.0,,26.9,19.3,100.0,0.0,1
+101.73,Cleaning & shaping,K-file,30,8.0,,24.8,14.1,100.0,0.0,1
+101.85,Cleaning & shaping,K-file,30,8.0,,22.7,8.8,100.0,0.0,1
+101.97,Cleaning & shaping,K-file,30,8.0,,20.6,3.6,100.0,0.0,1
+102.08,Cleaning & shaping,K-file,30,8.0,,18.5,0.0,100.0,0.0,1
+102.2,Cleaning & shaping,K-file,30,8.0,,16.4,0.0,100.0,0.0,1
+102.32,Cleaning & shaping,K-file,30,8.0,,14.3,0.0,100.0,0.0,1
+102.43,Cleaning & shaping,K-file,30,8.0,,12.2,0.0,100.0,0.0,1
+102.55,Cleaning & shaping,K-file,30,8.0,,10.1,0.0,100.0,0.0,1
+102.67,Obturation,Gutta-percha,30,0.0,,8.0,0.0,100.0,0.2,0
+102.78,Obturation,Gutta-percha,30,0.0,,5.9,0.0,100.0,1.9,0
+102.9,Obturation,Gutta-percha,30,0.0,,3.8,0.0,100.0,3.5,0
+103.02,Obturation,Gutta-percha,30,0.0,,1.7,0.0,100.0,5.1,0
+103.13,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,6.8,0
+103.25,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,8.4,0
+103.37,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,10.0,0
+103.48,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,11.7,0
+103.6,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,13.3,0
+103.72,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,14.9,0
+103.83,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,16.6,0
+103.95,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,18.2,0
+104.07,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,19.8,0
+104.18,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,21.5,0
+104.3,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,23.1,0
+104.42,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,24.7,0
+104.53,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,26.4,0
+104.65,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,28.0,0
+104.77,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,29.6,0
+104.88,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,31.3,0
+105.0,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,32.9,0
+105.12,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,34.5,0
+105.23,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,36.2,0
+105.35,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,37.8,0
+105.47,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,39.4,0
+105.58,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,41.1,0
+105.7,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,42.7,0
+105.82,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,44.3,0
+105.93,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,46.0,0
+106.05,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,47.6,0
+106.17,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,49.2,0
+106.28,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,50.9,0
+106.4,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,52.5,0
+106.52,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,54.1,0
+106.63,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,55.8,0
+106.75,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,57.4,0
+106.87,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,59.0,0
+106.98,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,60.7,0
+107.1,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,62.3,0
+107.22,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,63.9,0
+107.33,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,65.6,0
+107.45,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,67.2,0
+107.57,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,68.8,0
+107.68,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,70.5,0
+107.8,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,72.1,0
+107.92,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,73.7,0
+108.03,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,75.4,0
+108.15,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,77.0,0
+108.27,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,78.6,0
+108.38,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,80.3,0
+108.5,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,81.9,0
+108.62,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,83.5,0
+108.73,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,85.2,0
+108.85,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,86.8,0
+108.97,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,88.4,0
+109.08,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,90.1,0
+109.2,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,91.7,0
+109.32,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,93.3,0
+109.43,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,95.0,0
+109.55,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,96.6,0
+109.67,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,98.2,0
+109.78,Obturation,Gutta-percha,30,0.0,,0.0,0.0,100.0,99.9,0

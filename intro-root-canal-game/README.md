@@ -1,11 +1,13 @@
-# SurgiFlow Twin — Root Canal Digital Surgical Twin (DST) with Azuma AR
+# Introduction: Root Canal Interactive Game
 
-A small, interactive desktop simulation of an endodontic (root canal) procedure.
-A **Digital Surgical Twin** mirrors the tooth and instruments in real time from *your*
-keyboard/mouse input, and an **AR layer** built on Azuma's three properties gives adaptive prompts.
+A small introductory game that walks through a simplified root canal (endodontic) procedure.
+You control the instruments with the keyboard and mouse. A live dashboard mirrors the tooth and
+instruments in real time, and AR-style prompts based on Azuma's three properties of AR guide you.
 
-## Run it
-Double-click **`run_simulation.bat`**, or in VS Code press **F5** (config “Run SurgiFlow Twin”), or:
+This is an introductory piece. The main SurgiFlow Digital Surgical Twin is being built in Unity (see `../unity/`).
+
+## Play it
+Double-click **`play_root_canal_game.bat`**, or in VS Code press **F5** (config “Play Intro Root Canal Game”), or:
 
 ```
 pip install -r requirements.txt

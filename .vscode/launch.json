@@ -2,22 +2,23 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run SurgiFlow Twin",
+      "name": "Play Intro Root Canal Game",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/prototype-python/src/main.py",
-      "cwd": "${workspaceFolder}/prototype-python",
+      "program": "${workspaceFolder}/intro-root-canal-game/src/main.py",
+      "cwd": "${workspaceFolder}/intro-root-canal-game",
       "console": "integratedTerminal"
     },
     {
       "name": "Self-test (autopilot + screenshots)",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/prototype-python/src/main.py",
+      "program": "${workspaceFolder}/intro-root-canal-game/src/main.py",
       "args": ["--selftest"],
-      "cwd": "${workspaceFolder}/prototype-python",
+      "cwd": "${workspaceFolder}/intro-root-canal-game",
       "console": "integratedTerminal"
     }
   ]
 }
+
 

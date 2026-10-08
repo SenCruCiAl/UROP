@@ -1,0 +1,72 @@
+{
+  "tooth": "Maxillary first molar (Mesiobuccal canal)",
+  "patient_seed": 42,
+  "canal_length_mm": 19.51,
+  "curvature_deg": 24.8,
+  "target_wl_mm": 19.01,
+  "recorded_wl_mm": 18.97,
+  "final_stage": "Complete",
+  "fail_reason": null,
+  "files_used": [
+    15,
+    20,
+    25,
+    30
+  ],
+  "cleanliness_pct": 100.0,
+  "peak_stress_pct": 45.1,
+  "score": 100,
+  "penalties": [],
+  "events": [
+    {
+      "t": 0.0,
+      "level": 0,
+      "text": "Session started: Maxillary first molar (Mesiobuccal canal), canal 19.51 mm"
+    },
+    {
+      "t": 1.1,
+      "level": 0,
+      "text": "Access complete \u2192 working-length determination with ISO #10 K-file"
+    },
+    {
+      "t": 6.98,
+      "level": 0,
+      "text": "WL recorded 18.97 mm (excellent, error -0.04)"
+    },
+    {
+      "t": 6.98,
+      "level": 0,
+      "text": "Shaping: ISO #15 to WL 18.97 mm (MAF #30)"
+    },
+    {
+      "t": 29.98,
+      "level": 0,
+      "text": "Switched to ISO #20"
+    },
+    {
+      "t": 52.98,
+      "level": 0,
+      "text": "Switched to ISO #25"
+    },
+    {
+      "t": 78.15,
+      "level": 0,
+      "text": "Switched to ISO #30"
+    },
+    {
+      "t": 102.65,
+      "level": 0,
+      "text": "Shaping finished \u2192 obturation (hold O)"
+    },
+    {
+      "t": 109.8,
+      "level": 0,
+      "text": "Canal obturated \u2014 press ENTER to finish"
+    },
+    {
+      "t": 109.82,
+      "level": 0,
+      "text": "Procedure complete \u2014 score 100"
+    }
+  ]
+}
