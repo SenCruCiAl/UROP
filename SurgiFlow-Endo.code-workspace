@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "name": "C# - Runtime (read first)", "path": "unity/SurgiFlowDST/Assets/SurgiFlow/Endo/Scripts" },
+    { "name": "C# - Editor (scene builder)", "path": "unity/SurgiFlowDST/Assets/SurgiFlow/Endo/Editor" },
+    { "name": "C# - Tests", "path": "unity/SurgiFlowDST/Assets/SurgiFlow/Endo/Tests" },
+    { "name": "Shaders", "path": "unity/SurgiFlowDST/Assets/SurgiFlow/Endo/Shaders" },
+    { "name": "Research notes", "path": "docs" }
+  ],
+  "settings": { "files.exclude": { "**/*.meta": true } }
+}

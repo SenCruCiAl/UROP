@@ -1,0 +1,14 @@
+{
+  "name": "SurgiFlow.Endo.Editor",
+  "rootNamespace": "SurgiFlow.Endo.Editor",
+  "references": [ "SurgiFlow.Endo", "Unity.RenderPipelines.Universal.Runtime" ],
+  "includePlatforms": [ "Editor" ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
