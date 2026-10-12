@@ -39,13 +39,27 @@ python src/main.py
 ```
 
 ## Main work: SurgiFlow DST in Unity (under development)
-The main project is being built in **Unity** with **C#**. We are developing a full SurgiFlow Digital Surgical
-Twin with 3D anatomy, real-time instrument tracking and AR guidance. This work is currently under process and
-will be added to the [`unity/`](unity/) folder.
+The main project is being built in **Unity** with **C#**. The goal is a full SurgiFlow Digital Surgical Twin
+with 3D anatomy, real-time instrument tracking and AR guidance. This work is currently under process.
+
+The first Unity piece is a **3D root canal trainer** (`unity/SurgiFlowDST`, scene `EndoSim`). It brings the
+introductory game into Unity:
+- a 3D tooth model generated from the same anatomy dataset
+- the digital twin of the procedure (access, working length, cleaning & shaping, filling), written in C#
+- an AR guidance layer with anatomy-anchored overlays and adaptive prompts
+- automated tests for the twin logic and the scene
+
+**Open it:** in Unity Hub choose **Add → Add project from disk → `unity/SurgiFlowDST`**, open it with Unity
+**6000.6.4f1**, load `Assets/Scenes/EndoSim` and press **Play**. Press **F1** in the game for the controls.
+
+## Research
+Background notes on surgical digital twins and how the DST will be structured are in [`docs/research/`](docs/research/).
+Clinical values that still need checking by a clinician are listed in [`docs/review-queue.md`](docs/review-queue.md).
 
 ## Repository layout
 ```
 intro-root-canal-game/   Introductory root canal interactive game (Python)
-unity/                   SurgiFlow DST built in Unity / C# (under development)
+unity/SurgiFlowDST/      SurgiFlow DST in Unity / C# (under development)
+docs/research/           Research notes on surgical digital twins
 docs/images/             Screenshots
 ```
